@@ -1,0 +1,1594 @@
+{
+  "sequences": {
+    "S1": {
+      "title": "Hook: who will be the greatest archer?",
+      "lines": [
+        1
+      ]
+    },
+    "S2": {
+      "title": "The challenge at the gurukul",
+      "lines": [
+        2,
+        3,
+        4
+      ]
+    },
+    "S3": {
+      "title": "Duryodhana's turn: pride and anger",
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "S4": {
+      "title": "Yudhishthira's turn: calm but wide",
+      "lines": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    "S5": {
+      "title": "Was it impossible?",
+      "lines": [
+        18,
+        19
+      ]
+    },
+    "S6": {
+      "title": "Arjuna's turn: the world falls away",
+      "lines": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    "S7": {
+      "title": "The shot",
+      "lines": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "S8": {
+      "title": "The lesson: अटूट एकाग्रता",
+      "lines": [
+        34,
+        35,
+        36
+      ]
+    },
+    "S9": {
+      "title": "The lesson in today's world",
+      "lines": [
+        37,
+        38
+      ]
+    }
+  },
+  "lines": [
+    {
+      "line": 1,
+      "sequence": "S1",
+      "sequenceTitle": "Hook: who will be the greatest archer?",
+      "start": 0.62,
+      "end": 5.76,
+      "text": "आखिर कौन बनेगा... पूरे राज्य का सबसे महान धनुर्धर?",
+      "teachingGoal": "Hook curiosity: a contest to find the greatest archer.",
+      "syncWord": "धनुर्धर",
+      "syncWordStart": 5.16,
+      "onScreenObject": "Five prince silhouettes with bows; a golden bow rising in the sky",
+      "visualConcept": "Question as image: who is THE archer?",
+      "howShownVisually": "Dawn. Camera glides right along five silhouettes standing on a ridge, each holding a bow lowered at his side. On 'कौन' each head lifts in a chain. On 'सबसे महान' a golden bow rises behind them like a sun. On 'धनुर्धर' it glows. THINK PAUSE: the silhouettes glance at each other; the golden bow curls and its arrow-tip drops beneath it, becoming a '?' symbol (bow curve + round dot).",
+      "onScreenText": "none",
+      "background": "Dawn sky gradient cream→saffron, distant Hastinapur domes, ridge",
+      "graphics": [
+        "prince silhouettes x5",
+        "golden bow",
+        "bow-question-mark symbol"
+      ],
+      "motion": "Slow lateral glide 6 s; chained head lifts 120 ms apart; golden bow rise with soft overshoot; '?' forms over 600 ms then holds",
+      "transitionIn": "fade in",
+      "transitionOut": "The '?' dot drops and becomes the rising sun of S2",
+      "interaction": "question",
+      "energy": 5,
+      "accuracyNotes": "Hastinapur shown only as distant domes, not a specific real building.",
+      "ageCheck": "Abstract 'greatest' made concrete as a glowing prize-bow. No text.",
+      "customAssetsNeeded": [
+        "silhouette set",
+        "golden bow",
+        "bow-? symbol"
+      ],
+      "notes": "Think pause 5.76–7.29 s holds a simplified frame.",
+      "setup": "HOOK",
+      "backdrop": "dawn ridge",
+      "shot": "wide, low angle, silhouettes",
+      "views": {
+        "princes x5": "side, facing right (east, toward the sun)"
+      },
+      "extras": [
+        "long dawn shadows",
+        "drifting clouds",
+        "dust motes"
+      ]
+    },
+    {
+      "line": 2,
+      "sequence": "S2",
+      "sequenceTitle": "The challenge at the gurukul",
+      "start": 7.291,
+      "end": 13.641,
+      "text": "एक सुबह, गुरु द्रोणाचार्य ने सभी राजकुमारों को एक अनोखी चुनौती के लिए बुलाया।",
+      "teachingGoal": "Meet Guru Drona and the princes; set up the challenge.",
+      "syncWord": "द्रोणाचार्य",
+      "syncWordStart": 8.721,
+      "onScreenObject": "Guru Drona; princes running in; the gurukul",
+      "visualConcept": "The guru calls, the students come",
+      "howShownVisually": "Reverse angle toward the ashram (C2): Guru Drona stands in the foreground (back view) facing the huts. On 'एक सुबह' the sun (left in this direction) rises over the ashram. On 'राजकुमारों' the princes run out toward camera and stop in a row; on 'चुनौती' Drona points up and every head follows. Then a sky-tilt carries us to the target field (C1).",
+      "onScreenText": "none",
+      "background": "Gurukul clearing: thatched huts, mud wall, tall tree right of frame",
+      "graphics": [
+        "Drona",
+        "6 princes",
+        "huts",
+        "tree"
+      ],
+      "motion": "Sun rise ease-out 1.2 s; princes run with cloth trailing and settle with a small bounce; heads tilt up together",
+      "transitionIn": "match ('?' dot → sun, sun is LEFT in C2)",
+      "transitionOut": "Camera tilts up following Drona's finger",
+      "interaction": "none",
+      "energy": 6,
+      "accuracyNotes": "Drona as a Brahmin guru: white beard, top-knot, sandal tilak, rudraksha.",
+      "ageCheck": "Introduces characters by action, not name tags.",
+      "customAssetsNeeded": [
+        "Drona rig",
+        "prince rigs",
+        "gurukul set"
+      ],
+      "notes": "",
+      "setup": "C2",
+      "backdrop": "ashram (south)",
+      "shot": "wide → mid",
+      "views": {
+        "drona": "back (foreground, facing the ashram as he calls)",
+        "princes": "front, running toward camera → stop in a row"
+      },
+      "extras": [
+        "dust puffs under running feet",
+        "contact shadows"
+      ]
+    },
+    {
+      "line": 3,
+      "sequence": "S2",
+      "sequenceTitle": "The challenge at the gurukul",
+      "start": 14.941,
+      "end": 20.102,
+      "text": "एक ऊँचे पेड़ की डाल पर... एक छोटी सी लकड़ी की चिड़िया रखी थी।",
+      "teachingGoal": "Show the target clearly: a SMALL WOODEN bird high on a branch.",
+      "syncWord": "चिड़िया",
+      "syncWordStart": 19.082,
+      "onScreenObject": "Tall tree, one long branch (डाल), the wooden bird",
+      "visualConcept": "Tilt up to the target; prove it's a toy",
+      "howShownVisually": "Camera tilts up the trunk on 'ऊँचे पेड़' (the tree feels very tall). On 'डाल' the long branch sways and a soft glow runs along it. Hold on '...'. On 'छोटी सी' a tiny shape sits at the branch tip; on 'लकड़ी की' a quick insert: a knuckle taps the bird, 'tok' lines, wood grain and a paint chip visible; on 'चिड़िया' back to the bird, which rocks stiffly on its peg.",
+      "onScreenText": "none",
+      "background": "Sky, tree, branch against open sky",
+      "graphics": [
+        "tree",
+        "branch glow",
+        "wooden bird",
+        "tap insert"
+      ],
+      "motion": "Tilt 1.5 s ease-in-out; branch sway spring; bird rocks like a heavy wooden toy",
+      "transitionIn": "sky-tilt (C2 → C1)",
+      "transitionOut": "Hold on the bird",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "Script says wooden bird: shown unmistakably as wood (grain, peg, base).",
+      "ageCheck": "Small target made readable: the bird stays in the upper-middle safe zone.",
+      "customAssetsNeeded": [
+        "wood-tap insert"
+      ],
+      "notes": "Safety: makes clear no real bird is involved.",
+      "setup": "SKY→C1",
+      "backdrop": "target field (north)",
+      "shot": "tilt up past the trees, come down on C1",
+      "views": {
+        "watchers (foreground)": "back, looking up at the tree"
+      },
+      "extras": [
+        "god-rays through the canopy",
+        "a leaf drifts down",
+        "squirrel peeks from the trunk"
+      ]
+    },
+    {
+      "line": 4,
+      "sequence": "S2",
+      "sequenceTitle": "The challenge at the gurukul",
+      "start": 21.632,
+      "end": 24.312,
+      "text": "\"इस चिड़िया की आँख पर निशाना लगाना है!\"",
+      "teachingGoal": "Name the exact target: the EYE.",
+      "syncWord": "आँख",
+      "syncWordStart": 22.612,
+      "onScreenObject": "Bird's painted eye; Focus Ring (first appearance)",
+      "visualConcept": "Introduce the Focus Ring",
+      "howShownVisually": "Drona (mid-shot, mouth on his words) gestures to the bird. On 'चिड़िया' cut to the bird; on 'आँख' the golden Focus Ring draws itself clockwise around the painted eye and the eye gets a soft glint. On 'निशाना' Drona mimes an aim with empty hands.",
+      "onScreenText": "none",
+      "background": "Morning sky; Drona in the foreground left",
+      "graphics": [
+        "Drona",
+        "bird",
+        "Focus Ring"
+      ],
+      "motion": "Ring draws in 500 ms then breathes subtly (±2%)",
+      "transitionIn": "continuous",
+      "transitionOut": "Ring fades; Duryodhana barges in",
+      "interaction": "none",
+      "energy": 8,
+      "accuracyNotes": "Popular retelling: target = eye.",
+      "ageCheck": "One idea: the eye is the target.",
+      "customAssetsNeeded": [
+        "Focus Ring component"
+      ],
+      "notes": "First of 6 ring uses.",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid on Drona → push to the bird",
+      "views": {
+        "drona": "front, addressing the princes (toward camera)",
+        "watchers": "back"
+      },
+      "extras": [
+        "focus ring first appearance on the eye"
+      ]
+    },
+    {
+      "line": 5,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 25.532,
+      "end": 28.766,
+      "text": "सबसे पहले आगे आया... दुर्योधन!",
+      "teachingGoal": "Introduce Duryodhana as proud and pushy.",
+      "syncWord": "दुर्योधन",
+      "syncWordStart": 27.782,
+      "onScreenObject": "Duryodhana",
+      "visualConcept": "Pride as inflated shapes",
+      "howShownVisually": "On 'सबसे पहले' the line of princes; Duryodhana shoulders his way to the front. On 'दुर्योधन' he plants his feet, chest puffs up, and his tall crown catches a gleam (a soft glint, not a flash).",
+      "onScreenText": "none",
+      "background": "Gurukul, princes in a line",
+      "graphics": [
+        "Duryodhana rig",
+        "crowd"
+      ],
+      "motion": "Swagger walk with bouncy springs; crown wobble follow-through",
+      "transitionIn": "continuous",
+      "transitionOut": "Hold on his smug face",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "",
+      "ageCheck": "Comic, not menacing.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid",
+      "views": {
+        "duryodhana": "back walking away from camera to the line → turns 3/4 → front on his name"
+      },
+      "extras": [
+        "crown wobble",
+        "cape trails"
+      ]
+    },
+    {
+      "line": 6,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 29.569,
+      "end": 36.393,
+      "text": "\"हा हा हा! बस इतनी सी बात? ये तो मेरे बाएँ हाथ का खेल है!\"",
+      "teachingGoal": "Show boastfulness.",
+      "syncWord": "बाएँ",
+      "syncWordStart": 35.123,
+      "onScreenObject": "Duryodhana laughing; his left hand",
+      "visualConcept": "Literal idiom: 'child's play with my left hand'",
+      "howShownVisually": "'हा हा हा': head tips back, three laugh bounces exactly on the three laugh bursts (29.57/30.01/30.29 s); the extra chuckle continues the shoulders shaking. On 'इतनी सी' he pinches finger and thumb small toward the bird. On 'बाएँ हाथ' he lifts his LEFT hand and twirls the bow casually in it; on 'खेल' a careless shrug. Behind him two princes exchange a look.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Duryodhana",
+        "crowd reaction"
+      ],
+      "motion": "Laugh bounces timed to bursts; bow twirl stays upright/away from others",
+      "transitionIn": "continuous",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 3,
+      "accuracyNotes": "बाएँ हाथ = his left hand (viewer's right when facing camera).",
+      "ageCheck": "Idiom shown literally plus context makes it understandable.",
+      "customAssetsNeeded": [],
+      "notes": "The unscripted chuckle 31.21–32.35 s gets shoulder shakes only.",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid, small push on the laugh",
+      "views": {
+        "duryodhana": "front",
+        "waiting princes (stage-left)": "3/4 facing right, exchanging a look"
+      },
+      "extras": [
+        "crown wobbles with each laugh bounce"
+      ]
+    },
+    {
+      "line": 7,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 37.683,
+      "end": 42.173,
+      "text": "दुर्योधन ने अकड़कर अपना धनुष उठाया... और निशाना साधा।",
+      "teachingGoal": "Show 'अकड़कर' (with arrogance) and aiming.",
+      "syncWord": "अकड़कर",
+      "syncWordStart": 38.683,
+      "onScreenObject": "Duryodhana aiming",
+      "visualConcept": "Arrogant aim pose",
+      "howShownVisually": "On 'अकड़कर' chest inflates, chin lifts and the crown wobbles. On 'उठाया' the bow comes up. Hold on '...'. On 'निशाना साधा' he takes the aim pose pointed up at the tree, with one eyebrow raised.",
+      "onScreenText": "none",
+      "background": "Gurukul, tree up-left",
+      "graphics": [
+        "Duryodhana aim pose"
+      ],
+      "motion": "Puff-up spring with overshoot; aim settles quickly (he's impatient)",
+      "transitionIn": "continuous",
+      "transitionOut": "Cut to Drona",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "Arrows point only up/away at the wooden target; never at people or camera.",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [
+        "aim pose (Duryodhana)"
+      ],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid, slightly low",
+      "views": {
+        "duryodhana": "front aim (chin up), bow → right"
+      },
+      "extras": []
+    },
+    {
+      "line": 8,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 43.564,
+      "end": 45.384,
+      "text": "गुरु द्रोणाचार्य ने पूछा...",
+      "teachingGoal": "The Question begins (format #1).",
+      "syncWord": "पूछा",
+      "syncWordStart": 44.904,
+      "onScreenObject": "Drona",
+      "visualConcept": "The guru asks",
+      "howShownVisually": "Drona steps beside Duryodhana, one hand stroking his beard, head tilted. On 'पूछा' he leans in slightly.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Drona"
+      ],
+      "motion": "Slow lean; beard sway",
+      "transitionIn": "continuous",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 8,
+      "accuracyNotes": "",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "Reused pose for L25 (repetition of format).",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "two-shot",
+      "views": {
+        "drona": "3/4 facing right, beard-stroke, leaning in",
+        "duryodhana": "front aim"
+      },
+      "extras": []
+    },
+    {
+      "line": 9,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 46.424,
+      "end": 49.534,
+      "text": "\"बताओ दुर्योधन, तुम्हें क्या दिखाई दे रहा है?\"",
+      "teachingGoal": "Ask: what do you see?",
+      "syncWord": "दिखाई",
+      "syncWordStart": 48.544,
+      "onScreenObject": "Drona and Duryodhana's eye",
+      "visualConcept": "Camera enters the eye",
+      "howShownVisually": "Drona speaks (mouth synced). On 'तुम्हें' the camera pushes toward Duryodhana's face; on 'दिखाई' it reaches his eye and an iris-wipe opens into a circular POV window.",
+      "onScreenText": "none",
+      "background": "Gurukul → POV",
+      "graphics": [
+        "Drona",
+        "Duryodhana face",
+        "iris wipe"
+      ],
+      "motion": "Push-in 1.2 s ease-in; iris open 400 ms",
+      "transitionIn": "iris (eye → POV) after the question ends",
+      "transitionOut": "POV window",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [
+        "iris-wipe"
+      ],
+      "notes": "Format: The Question.",
+      "setup": "C1→POV",
+      "backdrop": "target field",
+      "shot": "glide to his face → push to the eye",
+      "views": {
+        "duryodhana": "front"
+      },
+      "extras": []
+    },
+    {
+      "line": 10,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 51.074,
+      "end": 55.815,
+      "text": "\"मुझे पेड़ दिख रहा है! उसकी डालियाँ दिख रही हैं! और चिड़िया भी!\"",
+      "teachingGoal": "What Duryodhana sees: EVERYTHING (unfocused attention).",
+      "syncWord": "चिड़िया",
+      "syncWordStart": 55.104,
+      "onScreenObject": "POV window: whole tree, branches, bird + clutter",
+      "visualConcept": "Wide, jittery attention",
+      "howShownVisually": "Inside a wide POV circle that wobbles slightly: on 'पेड़' the whole tree pulses; on 'डालियाँ' every branch wiggles in turn; on 'चिड़िया भी' the bird pulses but is just one of many things. Leaves drift, a squirrel runs up the trunk, clouds slide: his eye darts (the circle drifts) between them. The Focus Ring is huge and loose around everything.",
+      "onScreenText": "none",
+      "background": "POV of the tree",
+      "graphics": [
+        "POV window",
+        "tree",
+        "branches",
+        "bird",
+        "squirrel",
+        "drifting leaves"
+      ],
+      "motion": "POV circle drifts ±30 px with gentle springs (no shake); pulses on nouns",
+      "transitionIn": "iris",
+      "transitionOut": "Iris closes",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "He names tree, branches and bird: exactly those three are highlighted, in order.",
+      "ageCheck": "Extra clutter is calm and slow to avoid overstimulation.",
+      "customAssetsNeeded": [
+        "squirrel"
+      ],
+      "notes": "Key contrast frame #1.",
+      "setup": "POV",
+      "backdrop": "his view (north-east)",
+      "shot": "POV window (wide, drifting)",
+      "views": {},
+      "extras": [
+        "squirrel runs up the trunk",
+        "clouds slide",
+        "leaves drift"
+      ]
+    },
+    {
+      "line": 11,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 57.125,
+      "end": 58.165,
+      "text": "\"तो पीछे हट जाओ!\"",
+      "teachingGoal": "Fail #1: step back.",
+      "syncWord": "पीछे",
+      "syncWordStart": 57.385,
+      "onScreenObject": "Drona's open palm; Duryodhana",
+      "visualConcept": "Step Back format",
+      "howShownVisually": "POV iris closes. Drona's open palm rises, a slow head-shake; on 'पीछे' Duryodhana steps back into the line, bow lowered.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Drona",
+        "Duryodhana"
+      ],
+      "motion": "Calm palm rise; step back 400 ms",
+      "transitionIn": "iris (POV closes to a point → C1)",
+      "transitionOut": "Cut to close-up",
+      "interaction": "none",
+      "energy": 8,
+      "accuracyNotes": "",
+      "ageCheck": "Firm but kind, no shouting animation.",
+      "customAssetsNeeded": [],
+      "notes": "Format: Step Back #1.",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "two-shot",
+      "views": {
+        "drona": "3/4 facing right, raised palm, slow head-shake",
+        "duryodhana": "side facing LEFT, walks back to the waiting princes"
+      },
+      "extras": []
+    },
+    {
+      "line": 12,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 59.625,
+      "end": 62.345,
+      "text": "दुर्योधन का चेहरा गुस्से से लाल हो गया!",
+      "teachingGoal": "Show anger as a feeling, safely.",
+      "syncWord": "लाल",
+      "syncWordStart": 61.625,
+      "onScreenObject": "Duryodhana's face",
+      "visualConcept": "Anger rises like a thermometer",
+      "howShownVisually": "Close-up. On 'गुस्से' his brows drop; on 'लाल' a red tint rises inside his face from chin to forehead; two tiny comic steam puffs from his ears. Background stays calm.",
+      "onScreenText": "none",
+      "background": "Soft blurred gurukul",
+      "graphics": [
+        "angry face",
+        "steam puffs"
+      ],
+      "motion": "Tint rises over 900 ms (no flash), steam puffs ease out",
+      "transitionIn": "continuous (push-in)",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 9,
+      "accuracyNotes": "",
+      "ageCheck": "No red full-frame wash; comic, short.",
+      "customAssetsNeeded": [
+        "steam puff"
+      ],
+      "notes": "Photosensitivity safe.",
+      "setup": "CU",
+      "backdrop": "soft target-field backdrop",
+      "shot": "close-up",
+      "views": {
+        "duryodhana": "front"
+      },
+      "extras": [
+        "comic steam puffs"
+      ]
+    },
+    {
+      "line": 13,
+      "sequence": "S3",
+      "sequenceTitle": "Duryodhana's turn: pride and anger",
+      "start": 63.415,
+      "end": 66.965,
+      "text": "उसने झल्लाकर अपना धनुष ज़मीन पर पटक दिया!",
+      "teachingGoal": "Show 'झल्लाकर' and that tantrums don't help.",
+      "syncWord": "पटक",
+      "syncWordStart": 66.385,
+      "onScreenObject": "Duryodhana; his bow; dust puff",
+      "visualConcept": "Tantrum, not rewarded",
+      "howShownVisually": "On 'झल्लाकर' he stamps his foot with a huff. On 'पटक दिया' the bow drops flat to the ground with a small dust puff (nothing breaks). Drona's eyebrow lifts slightly; nearby princes lean back a little.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "bow on ground",
+        "dust puff",
+        "reaction chain"
+      ],
+      "motion": "Bow thud with a small bounce; dust settles 700 ms",
+      "transitionIn": "continuous (pull-back)",
+      "transitionOut": "Push past to the next prince",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "",
+      "ageCheck": "Not glamorised; reaction shows it's not OK.",
+      "customAssetsNeeded": [
+        "dust puff"
+      ],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid",
+      "views": {
+        "duryodhana": "3/4 facing right, stamps",
+        "waiting princes": "3/4 facing right, lean back"
+      },
+      "extras": [
+        "crown slips over his eyes; he shoves it back up (gentle slapstick)",
+        "dust puff"
+      ]
+    },
+    {
+      "line": 14,
+      "sequence": "S4",
+      "sequenceTitle": "Yudhishthira's turn: calm but wide",
+      "start": 68.366,
+      "end": 70.556,
+      "text": "अब बारी आई... युधिष्ठिर की।",
+      "teachingGoal": "Introduce Yudhishthira, polite and calm.",
+      "syncWord": "युधिष्ठिर",
+      "syncWordStart": 69.636,
+      "onScreenObject": "Yudhishthira",
+      "visualConcept": "Good manners",
+      "howShownVisually": "Hold on '...'. On 'युधिष्ठिर' he steps forward and does a namaste to Drona, who nods.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Yudhishthira rig",
+        "Drona"
+      ],
+      "motion": "Gentle, even motion",
+      "transitionIn": "continuous",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "",
+      "ageCheck": "Models respect.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid, follow",
+      "views": {
+        "yudhishthira": "side facing right, walks to the line → 3/4 facing LEFT, namaste to Drona",
+        "drona": "3/4 facing right, nods"
+      },
+      "extras": []
+    },
+    {
+      "line": 15,
+      "sequence": "S4",
+      "sequenceTitle": "Yudhishthira's turn: calm but wide",
+      "start": 71.726,
+      "end": 74.256,
+      "text": "उन्होंने बड़े ध्यान से निशाना साधा...",
+      "teachingGoal": "Careful aim, still not enough.",
+      "syncWord": "ध्यान",
+      "syncWordStart": 72.746,
+      "onScreenObject": "Yudhishthira aiming",
+      "visualConcept": "Careful but wide",
+      "howShownVisually": "On 'बड़े ध्यान से' he slowly raises the bow; on 'निशाना साधा' he settles into a steady aim. Hold on '...'.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Yudhishthira aim pose"
+      ],
+      "motion": "Slow ease-in-out, very steady",
+      "transitionIn": "continuous",
+      "transitionOut": "Push-in to his eye",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "Arrows point only up/away at the wooden target; never at people or camera.",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [
+        "aim pose (Yudhishthira)"
+      ],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid",
+      "views": {
+        "yudhishthira": "front aim, bow → right"
+      },
+      "extras": []
+    },
+    {
+      "line": 16,
+      "sequence": "S4",
+      "sequenceTitle": "Yudhishthira's turn: calm but wide",
+      "start": 75.306,
+      "end": 78.276,
+      "text": "लेकिन उन्हें भी पूरा पेड़ दिखाई दे रहा था!",
+      "teachingGoal": "What Yudhishthira sees: the WHOLE tree (calm but wide).",
+      "syncWord": "पेड़",
+      "syncWordStart": 76.926,
+      "onScreenObject": "POV window: whole tree, steady",
+      "visualConcept": "The Question format #2",
+      "howShownVisually": "Quick push into his eye → POV window. Steady (no drift) but WIDE: on 'पूरा पेड़' the circle expands to hold the entire tree, which glows as one shape; the bird is tiny inside it.",
+      "onScreenText": "none",
+      "background": "POV of the tree",
+      "graphics": [
+        "POV window",
+        "tree"
+      ],
+      "motion": "Window widens 600 ms; no drift",
+      "transitionIn": "iris after Drona's line",
+      "transitionOut": "Iris close",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "",
+      "ageCheck": "Contrast with L10: steadier but still wide.",
+      "customAssetsNeeded": [],
+      "notes": "Key contrast frame #2.",
+      "setup": "POV",
+      "backdrop": "his view",
+      "shot": "POV window (wide, steady)",
+      "views": {},
+      "extras": []
+    },
+    {
+      "line": 17,
+      "sequence": "S4",
+      "sequenceTitle": "Yudhishthira's turn: calm but wide",
+      "start": 79.566,
+      "end": 80.837,
+      "text": "\"तुम भी पीछे हट जाओ!\"",
+      "teachingGoal": "Fail #2: step back, accepted gracefully.",
+      "syncWord": "पीछे",
+      "syncWordStart": 80.047,
+      "onScreenObject": "Drona; Yudhishthira",
+      "visualConcept": "Step Back format #2",
+      "howShownVisually": "Drona's palm (softer this time). On 'पीछे' Yudhishthira lowers his bow, bows his head and steps back calmly, the opposite of Duryodhana.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Drona",
+        "Yudhishthira"
+      ],
+      "motion": "Soft",
+      "transitionIn": "iris (POV closes)",
+      "transitionOut": "Wide shot",
+      "interaction": "none",
+      "energy": 9,
+      "accuracyNotes": "",
+      "ageCheck": "Shows graceful acceptance.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "two-shot",
+      "views": {
+        "yudhishthira": "3/4 facing LEFT, bows head → side facing LEFT, walks back",
+        "drona": "3/4 facing right, soft palm"
+      },
+      "extras": []
+    },
+    {
+      "line": 18,
+      "sequence": "S5",
+      "sequenceTitle": "Was it impossible?",
+      "start": 82.377,
+      "end": 85.367,
+      "text": "सभी राजकुमार एक-दूसरे का मुँह देखने लगे।",
+      "teachingGoal": "Build suspense: nobody knows the answer.",
+      "syncWord": "एक-दूसरे",
+      "syncWordStart": 83.627,
+      "onScreenObject": "Line of princes",
+      "visualConcept": "Reaction chain",
+      "howShownVisually": "Reverse angle (C2) after a wipe as Bhima's broad back passes the lens: the princes' faces in a row with the ashram behind them. On 'एक-दूसरे' each prince's head turns toward his neighbour (3/4-left ↔ 3/4-right) in a chain, puzzled brows; Bhima shrugs.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "princes x6"
+      ],
+      "motion": "Chain 120 ms apart",
+      "transitionIn": "wipe-by-figure (Bhima's broad back passes the lens)",
+      "transitionOut": "Camera rises",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "Reaction Chain format.",
+      "setup": "C2",
+      "backdrop": "ashram (south)",
+      "shot": "line-up of faces",
+      "views": {
+        "princes": "front/3/4, heads swap left↔right to look at each other"
+      },
+      "extras": [
+        "reaction chain 120 ms apart"
+      ]
+    },
+    {
+      "line": 19,
+      "sequence": "S5",
+      "sequenceTitle": "Was it impossible?",
+      "start": 86.447,
+      "end": 89.747,
+      "text": "क्या ये चुनौती... सचमुच असंभव थी?",
+      "teachingGoal": "Was it impossible? Make the challenge feel huge.",
+      "syncWord": "असंभव",
+      "syncWordStart": 88.947,
+      "onScreenObject": "Tiny bird against a huge sky; '?' symbol",
+      "visualConcept": "Impossible = tiny, far target",
+      "howShownVisually": "Camera rises far above: the bird becomes a tiny dot at the branch tip in a vast sky. On 'असंभव' the frame holds. THINK PAUSE: the bow-shaped '?' glows faintly beside the bird.",
+      "onScreenText": "none",
+      "background": "Huge sky",
+      "graphics": [
+        "tiny bird",
+        "bow-? symbol"
+      ],
+      "motion": "Rise 1.5 s then hold still",
+      "transitionIn": "sky-tilt (C2 → sky)",
+      "transitionOut": "On 'तभी' a single leaf falls",
+      "interaction": "question",
+      "energy": 3,
+      "accuracyNotes": "",
+      "ageCheck": "The answer comes immediately in L20.",
+      "customAssetsNeeded": [],
+      "notes": "Think pause 89.75–90.97 s.",
+      "setup": "SKY",
+      "backdrop": "huge sky (north-east)",
+      "shot": "extreme low angle up to the tiny bird",
+      "views": {},
+      "extras": [
+        "bow-? symbol",
+        "think pause hold"
+      ]
+    },
+    {
+      "line": 20,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 90.967,
+      "end": 93.218,
+      "text": "तभी... आगे बढ़ा अर्जुन।",
+      "teachingGoal": "Arjuna steps forward.",
+      "syncWord": "अर्जुन",
+      "syncWordStart": 92.788,
+      "onScreenObject": "Arjuna",
+      "visualConcept": "The quiet one",
+      "howShownVisually": "On 'तभी' a single leaf drifts down through frame. Hold on '...'. The princes part; on 'अर्जुन' Arjuna steps forward from the back of the line, calm and unhurried.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Arjuna rig",
+        "falling leaf",
+        "crowd parting"
+      ],
+      "motion": "Slow, even",
+      "transitionIn": "sky-tilt (sky → C1)",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 2,
+      "accuracyNotes": "Arjuna shown dark-complexioned as in the traditional descriptions.",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "wide, then follow",
+      "views": {
+        "arjuna": "side facing right, steps out from the waiting princes to the line",
+        "waiting princes": "3/4 facing right, parting"
+      },
+      "extras": [
+        "a single leaf falls on तभी"
+      ]
+    },
+    {
+      "line": 21,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 94.368,
+      "end": 97.818,
+      "text": "पूरा मैदान... एकदम शांत हो गया।",
+      "teachingGoal": "Stillness: feel the hush.",
+      "syncWord": "शांत",
+      "syncWordStart": 96.768,
+      "onScreenObject": "Whole clearing",
+      "visualConcept": "Visual silence",
+      "howShownVisually": "Wide shot. 'पूरा मैदान': everything visible. Hold on '...'. On 'एकदम शांत' all secondary motion ramps to zero: leaves stop, birds settle, the princes freeze, and light cools slightly (still warm).",
+      "onScreenText": "none",
+      "background": "Gurukul, hushed light",
+      "graphics": [
+        "whole set"
+      ],
+      "motion": "All motion eases to 0 over 800 ms",
+      "transitionIn": "continuous",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 3,
+      "accuracyNotes": "",
+      "ageCheck": "Calm, not eerie.",
+      "customAssetsNeeded": [],
+      "notes": "Stillness is a tool.",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "wide",
+      "views": {
+        "watchers (foreground)": "back",
+        "everyone": "frozen"
+      },
+      "extras": [
+        "all ambient motion ramps to zero (clouds, leaves, squirrel freezes mid-step)"
+      ]
+    },
+    {
+      "line": 22,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 99.268,
+      "end": 101.248,
+      "text": "अर्जुन ने अपना धनुष उठाया...",
+      "teachingGoal": "Arjuna raises his bow.",
+      "syncWord": "उठाया",
+      "syncWordStart": 100.728,
+      "onScreenObject": "Arjuna, bow",
+      "visualConcept": "Calm action",
+      "howShownVisually": "On 'उठाया' Arjuna lifts the bow slowly. Hold on '...'.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Arjuna"
+      ],
+      "motion": "Ease-in-out 900 ms",
+      "transitionIn": "continuous",
+      "transitionOut": "Close-up on the string",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "Arrows point only up/away at the wooden target; never at people or camera.",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "low angle, backlit",
+      "views": {
+        "arjuna": "front aim, bow → right, sun rim-light"
+      },
+      "extras": [
+        "rim light"
+      ]
+    },
+    {
+      "line": 23,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 102.238,
+      "end": 104.579,
+      "text": "धीरे-धीरे प्रत्यंचा खींची...",
+      "teachingGoal": "Show प्रत्यंचा (bowstring) and drawing it.",
+      "syncWord": "प्रत्यंचा",
+      "syncWordStart": 103.248,
+      "onScreenObject": "Bowstring close-up",
+      "visualConcept": "Show-beat for a new word",
+      "howShownVisually": "Close-up on the bow. On 'धीरे-धीरे' fingers on the string; on 'प्रत्यंचा' a glint runs along the string from tip to tip; on 'खींची' the string draws back slowly and the bow flexes.",
+      "onScreenText": "none",
+      "background": "Soft blur",
+      "graphics": [
+        "bow close-up",
+        "string glint"
+      ],
+      "motion": "Draw 1.2 s ease-in",
+      "transitionIn": "continuous (push-in)",
+      "transitionOut": "Pull back to mid-shot",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "प्रत्यंचा = bowstring.",
+      "ageCheck": "New word shown clearly.",
+      "customAssetsNeeded": [
+        "bow close-up"
+      ],
+      "notes": "",
+      "setup": "CU",
+      "backdrop": "soft target-field backdrop",
+      "shot": "detail: bow + string, bow on the RIGHT",
+      "views": {
+        "arjuna": "hands only"
+      },
+      "extras": [
+        "glint along the string"
+      ]
+    },
+    {
+      "line": 24,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 105.529,
+      "end": 107.249,
+      "text": "और अपनी साँस रोक ली।",
+      "teachingGoal": "Breath-hold = total focus.",
+      "syncWord": "रोक",
+      "syncWordStart": 106.729,
+      "onScreenObject": "Arjuna, chest",
+      "visualConcept": "Holding still",
+      "howShownVisually": "Mid-shot in full draw. On 'साँस' his chest rises gently; on 'रोक ली' it holds; the last tiny motion in the world (a leaf's quiver, the sash's flutter) stops.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Arjuna aim pose"
+      ],
+      "motion": "Rise, then hold: total stillness",
+      "transitionIn": "continuous (pull-back)",
+      "transitionOut": "Cut to Drona",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "Arrows point only up/away at the wooden target; never at people or camera.",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "mid",
+      "views": {
+        "arjuna": "front aim"
+      },
+      "extras": [
+        "the last sash flutter stops"
+      ]
+    },
+    {
+      "line": 25,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 108.679,
+      "end": 110.509,
+      "text": "गुरु द्रोणाचार्य ने पूछा...",
+      "teachingGoal": "The Question #3 begins.",
+      "syncWord": "पूछा",
+      "syncWordStart": 109.989,
+      "onScreenObject": "Drona",
+      "visualConcept": "Repetition of format",
+      "howShownVisually": "One continuous camera on the main stage (C1): Arjuna at full draw facing camera, aiming right at the small far tree; Guru Drona behind-left in 3/4, stroking his beard; waiting princes in the soft foreground (back views). On 'द्रोणाचार्य' the camera glides to the guru (the foreground princes ease away); on 'पूछा' he leans in toward Arjuna.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Drona"
+      ],
+      "motion": "Same as L8",
+      "transitionIn": "continuous",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "",
+      "ageCheck": "Pattern recognition.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "wide → glide to the guru as he is named",
+      "views": {
+        "arjuna": "front aim",
+        "drona": "3/4 facing right, beard-stroke, leans in on पूछा",
+        "watchers (foreground)": "back, fade as the camera moves in"
+      },
+      "extras": []
+    },
+    {
+      "line": 26,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 111.589,
+      "end": 114.229,
+      "text": "\"अर्जुन... तुम्हें क्या दिखाई दे रहा है?\"",
+      "teachingGoal": "Ask Arjuna.",
+      "syncWord": "दिखाई",
+      "syncWordStart": 113.289,
+      "onScreenObject": "Drona; Arjuna's eye",
+      "visualConcept": "Push into the eye",
+      "howShownVisually": "Still the same camera: it holds on Drona (3/4, mouth on his words) for the whole question, then glides to Arjuna's focused face as '…है?' ends, and makes a short, gentle push toward his eye. His view opens from the eye just before he answers.",
+      "onScreenText": "none",
+      "background": "Gurukul → POV",
+      "graphics": [
+        "Drona",
+        "Arjuna face",
+        "iris"
+      ],
+      "motion": "Push-in slower than L9",
+      "transitionIn": "continuous; iris just before 'गुरुदेव'",
+      "transitionOut": "POV window",
+      "interaction": "none",
+      "energy": 3,
+      "accuracyNotes": "",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1→POV",
+      "backdrop": "target field",
+      "shot": "hold on Drona asking → glide to Arjuna's face as the question ends → short push",
+      "views": {
+        "drona": "3/4 facing right, talking",
+        "arjuna": "front aim"
+      },
+      "extras": []
+    },
+    {
+      "line": 27,
+      "sequence": "S6",
+      "sequenceTitle": "Arjuna's turn: the world falls away",
+      "start": 115.649,
+      "end": 120.28,
+      "text": "\"गुरुदेव... मुझे तो बस... चिड़िया की आँख दिखाई दे रही है।\"",
+      "teachingGoal": "HERO: what Arjuna sees: ONLY the bird's eye.",
+      "syncWord": "आँख",
+      "syncWordStart": 118.95,
+      "onScreenObject": "POV: tree fades → bird → eye inside the Focus Ring",
+      "visualConcept": "The world falls away",
+      "howShownVisually": "On 'गुरुदेव' the POV shows the full tree. On 'मुझे तो' the edges begin to blur. On 'बस' the tree, branches, leaves and sky soften and fade to pale paper; the POV circle tightens. On 'चिड़िया' only the bird remains, sharp. On 'आँख' the Focus Ring locks around the painted eye with a soft 'click' shimmer; the eye fills the circle like a bullseye and holds.",
+      "onScreenText": "none",
+      "background": "POV → plain warm paper",
+      "graphics": [
+        "POV window",
+        "blur/fade layers",
+        "bird",
+        "Focus Ring"
+      ],
+      "motion": "Progressive blur/desaturate 1.5 s; ring tightens with a slow spring and settles",
+      "transitionIn": "iris",
+      "transitionOut": "Iris closes to Drona's smile",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "Popular retelling: he sees only the eye.",
+      "ageCheck": "Calm and clear; the strongest teaching frame.",
+      "customAssetsNeeded": [
+        "blur/fade stack"
+      ],
+      "notes": "HERO PROOF candidate.",
+      "setup": "POV",
+      "backdrop": "his view",
+      "shot": "POV: one steady zoom whole tree → bird → eye",
+      "views": {},
+      "extras": [
+        "focus ring locks"
+      ]
+    },
+    {
+      "line": 28,
+      "sequence": "S7",
+      "sequenceTitle": "The shot",
+      "start": 121.66,
+      "end": 124.84,
+      "text": "गुरु द्रोणाचार्य के चेहरे पर मुस्कान आ गई।",
+      "teachingGoal": "The guru approves.",
+      "syncWord": "मुस्कान",
+      "syncWordStart": 123.85,
+      "onScreenObject": "Drona's face",
+      "visualConcept": "Warm approval",
+      "howShownVisually": "Close-up. On 'मुस्कान' Drona's mouth curves into a slow smile, his eyes crinkle, his beard lifts slightly.",
+      "onScreenText": "none",
+      "background": "Soft gurukul",
+      "graphics": [
+        "Drona face"
+      ],
+      "motion": "Slow 700 ms",
+      "transitionIn": "iris (POV closes into Drona's smile)",
+      "transitionOut": "Cut",
+      "interaction": "none",
+      "energy": 6,
+      "accuracyNotes": "",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "CU",
+      "backdrop": "soft target-field backdrop",
+      "shot": "close-up on Drona",
+      "views": {
+        "drona": "3/4 facing right, slow smile"
+      },
+      "extras": []
+    },
+    {
+      "line": 29,
+      "sequence": "S7",
+      "sequenceTitle": "The shot",
+      "start": 126.11,
+      "end": 127.88,
+      "text": "\"तो फिर... बाण चलाओ!\"",
+      "teachingGoal": "Permission to shoot.",
+      "syncWord": "चलाओ",
+      "syncWordStart": 127.42,
+      "onScreenObject": "Drona; Arjuna",
+      "visualConcept": "Release cue",
+      "howShownVisually": "Drona nods. Hold on '...'. On 'चलाओ' a small nod and open-palm gesture toward the tree.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "Drona",
+        "Arjuna"
+      ],
+      "motion": "Nod",
+      "transitionIn": "continuous (pull-back)",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 5,
+      "accuracyNotes": "Arrows point only up/away at the wooden target; never at people or camera.",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field",
+      "shot": "two-shot",
+      "views": {
+        "drona": "3/4 facing right, nod + open palm",
+        "arjuna": "front aim"
+      },
+      "extras": []
+    },
+    {
+      "line": 30,
+      "sequence": "S7",
+      "sequenceTitle": "The shot",
+      "start": 129.301,
+      "end": 130.371,
+      "text": "शूँऽऽऽ!",
+      "teachingGoal": "The release.",
+      "syncWord": "शूँऽऽऽ",
+      "syncWordStart": 129.301,
+      "onScreenObject": "Arrow leaving the bow",
+      "visualConcept": "Sound made visible",
+      "howShownVisually": "Main stage (C1), front view: on 'शूँ' the string snaps forward, the bow flexes, and the arrow streaks away to the RIGHT with a soft golden trail; the camera pans right with it into the sky (no cut).",
+      "onScreenText": "none",
+      "background": "Sky",
+      "graphics": [
+        "arrow",
+        "trail",
+        "air lines"
+      ],
+      "motion": "Fast 250 ms launch, then easing",
+      "transitionIn": "continuous",
+      "transitionOut": "Follow-cam",
+      "interaction": "none",
+      "energy": 6,
+      "accuracyNotes": "Arrows point only up/away at the wooden target; never at people or camera.",
+      "ageCheck": "No flash.",
+      "customAssetsNeeded": [
+        "arrow trail"
+      ],
+      "notes": "",
+      "setup": "C1→SKY",
+      "backdrop": "target field → sky",
+      "shot": "release, camera pans right with the arrow",
+      "views": {
+        "arjuna": "front aim → release (bow → right)"
+      },
+      "extras": [
+        "string snap",
+        "air lines"
+      ]
+    },
+    {
+      "line": 31,
+      "sequence": "S7",
+      "sequenceTitle": "The shot",
+      "start": 131.771,
+      "end": 134.661,
+      "text": "तीर हवा को चीरता हुआ आगे बढ़ा...",
+      "teachingGoal": "Arrow flies through the air.",
+      "syncWord": "चीरता",
+      "syncWordStart": 132.871,
+      "onScreenObject": "Arrow in flight",
+      "visualConcept": "Cutting through air",
+      "howShownVisually": "Follow-cam alongside the arrow: on 'हवा को चीरता' wind lines part around the tip and leaves swirl aside. Hold on '...' (slow-motion feel).",
+      "onScreenText": "none",
+      "background": "Sky with parallax clouds",
+      "graphics": [
+        "arrow",
+        "wind lines",
+        "leaves"
+      ],
+      "motion": "Slow-mo glide",
+      "transitionIn": "continuous",
+      "transitionOut": "Bird comes into frame",
+      "interaction": "none",
+      "energy": 6,
+      "accuracyNotes": "",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "SKY",
+      "backdrop": "sky (north-east)",
+      "shot": "arrow follow, side-on, flying RIGHT",
+      "views": {},
+      "extras": [
+        "wind lines",
+        "leaves swirl aside",
+        "cloud parallax"
+      ]
+    },
+    {
+      "line": 32,
+      "sequence": "S7",
+      "sequenceTitle": "The shot",
+      "start": 136.661,
+      "end": 139.941,
+      "text": "और... सीधा चिड़िया की आँख में जा लगा!",
+      "teachingGoal": "The hit: exactly the eye.",
+      "syncWord": "आँख",
+      "syncWordStart": 138.861,
+      "onScreenObject": "Bird's painted eye; arrow",
+      "visualConcept": "Bullseye",
+      "howShownVisually": "Hold on 'और...' with the bird in the ring. On 'सीधा' the arrow flies in a straight line; on 'आँख' it 'tocks' into the painted eye; golden rings ripple outward from the eye (like target rings) and the bird rocks stiffly on its peg without breaking. Wood-chip sparkles.",
+      "onScreenText": "none",
+      "background": "Sky, branch",
+      "graphics": [
+        "bird",
+        "arrow",
+        "ripple rings",
+        "sparkles"
+      ],
+      "motion": "Rings expand over 900 ms with fade (no flash); bird rocks with a heavy spring",
+      "transitionIn": "continuous (the bird enters from the right)",
+      "transitionOut": "Cut to the princes",
+      "interaction": "celebrate",
+      "energy": 8,
+      "accuracyNotes": "Wooden target, no damage imagery.",
+      "ageCheck": "Peak moment but calm; ≤3 ripple rings.",
+      "customAssetsNeeded": [
+        "ripple rings"
+      ],
+      "notes": "Safety reviewed.",
+      "setup": "SKY",
+      "backdrop": "branch against sky",
+      "shot": "close on the bird",
+      "views": {},
+      "extras": [
+        "ripple rings",
+        "wood-chip sparkles"
+      ]
+    },
+    {
+      "line": 33,
+      "sequence": "S7",
+      "sequenceTitle": "The shot",
+      "start": 141.442,
+      "end": 143.892,
+      "text": "सभी राजकुमार हैरान रह गए!",
+      "teachingGoal": "Everyone is amazed.",
+      "syncWord": "हैरान",
+      "syncWordStart": 142.832,
+      "onScreenObject": "Princes' faces",
+      "visualConcept": "Reaction chain",
+      "howShownVisually": "On 'हैरान' a jaw-drop chain left→right with round eyes; Duryodhana peeks, then looks away grumpily.",
+      "onScreenText": "none",
+      "background": "Gurukul",
+      "graphics": [
+        "princes",
+        "Duryodhana"
+      ],
+      "motion": "Chain 120 ms",
+      "transitionIn": "ripple (rings fill the frame → C2)",
+      "transitionOut": "Warm light grows",
+      "interaction": "none",
+      "energy": 7,
+      "accuracyNotes": "",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [],
+      "notes": "",
+      "setup": "C2",
+      "backdrop": "ashram (south)",
+      "shot": "wide reaction of faces",
+      "views": {
+        "princes": "front/3/4 jaw-drop chain",
+        "duryodhana": "3/4 facing LEFT, peeks then turns away"
+      },
+      "extras": [
+        "squirrel jaw-drops too (on the ashram wall)"
+      ]
+    },
+    {
+      "line": 34,
+      "sequence": "S8",
+      "sequenceTitle": "The lesson: अटूट एकाग्रता",
+      "start": 145.102,
+      "end": 148.812,
+      "text": "उस दिन अर्जुन ने सबको एक बहुत बड़ी सीख दी।",
+      "teachingGoal": "Name the lesson as a gift.",
+      "syncWord": "सीख",
+      "syncWordStart": 148.332,
+      "onScreenObject": "Drona, Arjuna, diya",
+      "visualConcept": "Learning = a lamp",
+      "howShownVisually": "Warm afternoon. Drona's hand on Arjuna's shoulder; princes gather in a semicircle. On 'बड़ी सीख' a small diya lights between them and glows softly.",
+      "onScreenText": "none",
+      "background": "Gurukul, golden light",
+      "graphics": [
+        "Drona",
+        "Arjuna",
+        "princes",
+        "diya"
+      ],
+      "motion": "Diya flame flickers gently (<2 Hz)",
+      "transitionIn": "dissolve (≤0.5 s, light warms)",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 6,
+      "accuracyNotes": "Diya as a symbol of knowledge (Indian context).",
+      "ageCheck": "OK for 6–9: shown, not read.",
+      "customAssetsNeeded": [
+        "diya"
+      ],
+      "notes": "",
+      "setup": "C1",
+      "backdrop": "target field, warm afternoon",
+      "shot": "mid group, slow arc",
+      "views": {
+        "drona": "3/4 facing right, hand on Arjuna's shoulder",
+        "arjuna": "3/4 facing LEFT toward Drona",
+        "watchers (foreground)": "back, gathered"
+      },
+      "extras": [
+        "diya",
+        "warm afternoon light"
+      ]
+    },
+    {
+      "line": 35,
+      "sequence": "S8",
+      "sequenceTitle": "The lesson: अटूट एकाग्रता",
+      "start": 150.012,
+      "end": 154.023,
+      "text": "महान बनने के लिए सिर्फ़ ताकत या घमंड नहीं...",
+      "teachingGoal": "Pride and strength alone are not enough.",
+      "syncWord": "घमंड",
+      "syncWordStart": 153.152,
+      "onScreenObject": "Bhima lifting a log; Duryodhana inflating",
+      "visualConcept": "Recall: pride",
+      "howShownVisually": "On 'ताकत' Bhima lifts a heavy log easily and flexes. On 'घमंड' Duryodhana puffs up (his L5 pose) and his crown grows taller. On 'नहीं' both turn to soft grey silhouettes and step aside; Duryodhana deflates with a soft comic 'pfff'.",
+      "onScreenText": "none",
+      "background": "Plain warm paper backdrop",
+      "graphics": [
+        "Bhima",
+        "log",
+        "Duryodhana",
+        "crown"
+      ],
+      "motion": "Inflate/deflate springs; fade to silhouette 500 ms",
+      "transitionIn": "dissolve to paper",
+      "transitionOut": "Silhouettes part to reveal Arjuna",
+      "interaction": "none",
+      "energy": 6,
+      "accuracyNotes": "",
+      "ageCheck": "ताकत shown as fine but not enough; घमंड clearly not the way.",
+      "customAssetsNeeded": [
+        "log"
+      ],
+      "notes": "Visual recap of L5.",
+      "setup": "CU",
+      "backdrop": "plain warm paper backdrop",
+      "shot": "split staging",
+      "views": {
+        "bhima": "3/4 facing right, lifts a log",
+        "duryodhana": "front, puffs up"
+      },
+      "extras": []
+    },
+    {
+      "line": 36,
+      "sequence": "S8",
+      "sequenceTitle": "The lesson: अटूट एकाग्रता",
+      "start": 155.523,
+      "end": 159.073,
+      "text": "बल्कि चाहिए... अटूट एकाग्रता!",
+      "teachingGoal": "Define अटूट एकाग्रता visually.",
+      "syncWord": "एकाग्रता",
+      "syncWordStart": 158.123,
+      "onScreenObject": "Arjuna's calm eye in the Focus Ring; butterfly and leaf",
+      "visualConcept": "Unbreakable focus",
+      "howShownVisually": "Close on Arjuna's focused eye. Hold on '...'. On 'अटूट' the Focus Ring forms and locks (thicker); a butterfly and a leaf drift in and gently bounce off the ring while the eye doesn't blink. On 'एकाग्रता' the ring glows warmly.",
+      "onScreenText": "none",
+      "background": "Soft",
+      "graphics": [
+        "Arjuna eye",
+        "Focus Ring",
+        "butterfly",
+        "leaf"
+      ],
+      "motion": "Distractions bounce with soft springs; ring stays rock-solid",
+      "transitionIn": "match (silhouettes part to reveal Arjuna's eye)",
+      "transitionOut": "Match-cut: eye → child's eye",
+      "interaction": "none",
+      "energy": 2,
+      "accuracyNotes": "",
+      "ageCheck": "Abstract word made visible.",
+      "customAssetsNeeded": [
+        "butterfly"
+      ],
+      "notes": "Recall: ring ×5.",
+      "setup": "CU",
+      "backdrop": "soft backdrop",
+      "shot": "extreme close-up eye",
+      "views": {
+        "arjuna": "front"
+      },
+      "extras": [
+        "butterfly and leaf bounce off the ring"
+      ]
+    },
+    {
+      "line": 37,
+      "sequence": "S9",
+      "sequenceTitle": "The lesson in today's world",
+      "start": 160.433,
+      "end": 162.963,
+      "text": "क्योंकि जब नज़र सिर्फ़ लक्ष्य पर हो...",
+      "teachingGoal": "Transfer: the same focus in a child's life.",
+      "syncWord": "लक्ष्य",
+      "syncWordStart": 162.073,
+      "onScreenObject": "A girl's eye → her room → a basket",
+      "visualConcept": "The ring passes to today",
+      "howShownVisually": "Match-cut: the same ring now frames a girl's focused eye (same position). Pull back: her room, a crumpled paper ball in her hand, a wicker basket across the room. On 'लक्ष्य' the Focus Ring floats from her eye to the basket and settles around it. A kite outside the window drifts by and she ignores it.",
+      "onScreenText": "none",
+      "background": "Modern Indian home: window, bed, a small Arjuna storybook on the shelf",
+      "graphics": [
+        "girl rig",
+        "paper ball",
+        "basket",
+        "Focus Ring",
+        "kite"
+      ],
+      "motion": "Pull back 1.5 s; ring glide",
+      "transitionIn": "match (ring frames Arjuna's eye → the girl's eye)",
+      "transitionOut": "Continuous",
+      "interaction": "none",
+      "energy": 8,
+      "accuracyNotes": "",
+      "ageCheck": "Relatable, safe activity (paper ball into a basket).",
+      "customAssetsNeeded": [
+        "girl rig",
+        "room set",
+        "basket"
+      ],
+      "notes": "Recall: ring ×6.",
+      "setup": "HOME",
+      "backdrop": "girl's room",
+      "shot": "match-cut eye → pull back",
+      "views": {
+        "girl": "front close-up → 3/4 facing right, holding the paper ball"
+      },
+      "extras": [
+        "kite drifts past the window"
+      ]
+    },
+    {
+      "line": 38,
+      "sequence": "S9",
+      "sequenceTitle": "The lesson in today's world",
+      "start": 163.913,
+      "end": 167.924,
+      "text": "तो मुश्किल से मुश्किल निशाना भी... आसान हो जाता है!",
+      "teachingGoal": "Payoff: hard things become easy with focus.",
+      "syncWord": "आसान",
+      "syncWordStart": 166.694,
+      "onScreenObject": "Paper ball arcs into the basket",
+      "visualConcept": "Success",
+      "howShownVisually": "On 'मुश्किल से मुश्किल' the basket looks far (camera stretches the distance). On 'निशाना भी...' she tosses: the ball arcs slowly. On 'आसान' it drops cleanly into the basket; she cheers with both fists up; the storybook Arjuna on the shelf seems to smile. Final hold till the end of the audio.",
+      "onScreenText": "none",
+      "background": "Home",
+      "graphics": [
+        "girl",
+        "ball arc",
+        "basket",
+        "storybook"
+      ],
+      "motion": "Ball arc 1.2 s with a soft bounce in the basket; cheer spring",
+      "transitionIn": "continuous",
+      "transitionOut": "End hold 0.75 s",
+      "interaction": "celebrate",
+      "energy": 6,
+      "accuracyNotes": "",
+      "ageCheck": "Ends on the child's success.",
+      "customAssetsNeeded": [
+        "storybook prop"
+      ],
+      "notes": "Bookend: lesson lands in the viewer's world.",
+      "setup": "HOME",
+      "backdrop": "girl's room (basket on the RIGHT)",
+      "shot": "side-on toss → 3/4 cheer",
+      "views": {
+        "girl": "side facing right (toss toward the basket) → 3/4 facing right (cheer)"
+      },
+      "extras": [
+        "storybook Arjuna on the shelf"
+      ]
+    }
+  ]
+}

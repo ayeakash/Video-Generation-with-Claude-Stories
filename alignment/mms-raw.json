@@ -1,0 +1,2202 @@
+[
+ {
+  "word": "आखिर",
+  "line": 0,
+  "roman": "aakhir",
+  "start": 0.66,
+  "end": 1.0,
+  "score": 0.76
+ },
+ {
+  "word": "कौन",
+  "line": 0,
+  "roman": "kaun",
+  "start": 1.18,
+  "end": 1.44,
+  "score": 0.976
+ },
+ {
+  "word": "बनेगा",
+  "line": 0,
+  "roman": "banegaa",
+  "start": 1.54,
+  "end": 2.0,
+  "score": 0.93
+ },
+ {
+  "word": "पूरे",
+  "line": 0,
+  "roman": "puure",
+  "start": 2.58,
+  "end": 2.94,
+  "score": 0.946
+ },
+ {
+  "word": "राज्य",
+  "line": 0,
+  "roman": "raajya",
+  "start": 3.14,
+  "end": 3.56,
+  "score": 0.978
+ },
+ {
+  "word": "का",
+  "line": 0,
+  "roman": "kaa",
+  "start": 3.62,
+  "end": 3.78,
+  "score": 0.979
+ },
+ {
+  "word": "सबसे",
+  "line": 0,
+  "roman": "sabase",
+  "start": 3.98,
+  "end": 4.4,
+  "score": 0.878
+ },
+ {
+  "word": "महान",
+  "line": 0,
+  "roman": "mahaan",
+  "start": 4.6,
+  "end": 5.08,
+  "score": 0.957
+ },
+ {
+  "word": "धनुर्धर",
+  "line": 0,
+  "roman": "dhanurdhar",
+  "start": 5.16,
+  "end": 5.76,
+  "score": 0.879
+ },
+ {
+  "word": "एक",
+  "line": 1,
+  "roman": "ek",
+  "start": 7.341,
+  "end": 7.501,
+  "score": 0.959
+ },
+ {
+  "word": "सुबह",
+  "line": 1,
+  "roman": "subah",
+  "start": 7.581,
+  "end": 7.921,
+  "score": 0.804
+ },
+ {
+  "word": "गुरु",
+  "line": 1,
+  "roman": "guru",
+  "start": 8.421,
+  "end": 8.621,
+  "score": 0.963
+ },
+ {
+  "word": "द्रोणाचार्य",
+  "line": 1,
+  "roman": "dronnaacaarya",
+  "start": 8.721,
+  "end": 9.441,
+  "score": 0.883
+ },
+ {
+  "word": "ने",
+  "line": 1,
+  "roman": "ne",
+  "start": 9.521,
+  "end": 9.601,
+  "score": 0.978
+ },
+ {
+  "word": "सभी",
+  "line": 1,
+  "roman": "sabhii",
+  "start": 9.841,
+  "end": 10.181,
+  "score": 0.925
+ },
+ {
+  "word": "राजकुमारों",
+  "line": 1,
+  "roman": "raajakumaarom",
+  "start": 10.241,
+  "end": 10.941,
+  "score": 0.914
+ },
+ {
+  "word": "को",
+  "line": 1,
+  "roman": "ko",
+  "start": 11.001,
+  "end": 11.081,
+  "score": 0.984
+ },
+ {
+  "word": "एक",
+  "line": 1,
+  "roman": "ek",
+  "start": 11.541,
+  "end": 11.661,
+  "score": 0.987
+ },
+ {
+  "word": "अनोखी",
+  "line": 1,
+  "roman": "anokhii",
+  "start": 11.821,
+  "end": 12.321,
+  "score": 0.865
+ },
+ {
+  "word": "चुनौती",
+  "line": 1,
+  "roman": "cunautii",
+  "start": 12.361,
+  "end": 12.841,
+  "score": 0.975
+ },
+ {
+  "word": "के",
+  "line": 1,
+  "roman": "ke",
+  "start": 12.881,
+  "end": 12.961,
+  "score": 0.986
+ },
+ {
+  "word": "लिए",
+  "line": 1,
+  "roman": "lie",
+  "start": 13.021,
+  "end": 13.161,
+  "score": 0.987
+ },
+ {
+  "word": "बुलाया",
+  "line": 1,
+  "roman": "bulaayaa",
+  "start": 13.221,
+  "end": 13.621,
+  "score": 0.899
+ },
+ {
+  "word": "एक",
+  "line": 2,
+  "roman": "ek",
+  "start": 14.981,
+  "end": 15.121,
+  "score": 0.97
+ },
+ {
+  "word": "ऊँचे",
+  "line": 2,
+  "roman": "uumce",
+  "start": 15.321,
+  "end": 15.641,
+  "score": 0.955
+ },
+ {
+  "word": "पेड़",
+  "line": 2,
+  "roman": "pedd",
+  "start": 15.781,
+  "end": 16.041,
+  "score": 0.981
+ },
+ {
+  "word": "की",
+  "line": 2,
+  "roman": "kii",
+  "start": 16.121,
+  "end": 16.241,
+  "score": 0.978
+ },
+ {
+  "word": "डाल",
+  "line": 2,
+  "roman": "ddaal",
+  "start": 16.301,
+  "end": 16.601,
+  "score": 0.943
+ },
+ {
+  "word": "पर",
+  "line": 2,
+  "roman": "par",
+  "start": 16.701,
+  "end": 16.921,
+  "score": 0.988
+ },
+ {
+  "word": "एक",
+  "line": 2,
+  "roman": "ek",
+  "start": 17.401,
+  "end": 17.501,
+  "score": 0.977
+ },
+ {
+  "word": "छोटी",
+  "line": 2,
+  "roman": "chottii",
+  "start": 17.621,
+  "end": 18.141,
+  "score": 0.952
+ },
+ {
+  "word": "सी",
+  "line": 2,
+  "roman": "sii",
+  "start": 18.201,
+  "end": 18.341,
+  "score": 0.925
+ },
+ {
+  "word": "लकड़ी",
+  "line": 2,
+  "roman": "lakaddii",
+  "start": 18.442,
+  "end": 18.822,
+  "score": 0.978
+ },
+ {
+  "word": "की",
+  "line": 2,
+  "roman": "kii",
+  "start": 18.862,
+  "end": 19.002,
+  "score": 0.98
+ },
+ {
+  "word": "चिड़िया",
+  "line": 2,
+  "roman": "ciddiyaa",
+  "start": 19.082,
+  "end": 19.482,
+  "score": 0.951
+ },
+ {
+  "word": "रखी",
+  "line": 2,
+  "roman": "rakhii",
+  "start": 19.522,
+  "end": 19.822,
+  "score": 0.982
+ },
+ {
+  "word": "थी",
+  "line": 2,
+  "roman": "thii",
+  "start": 19.862,
+  "end": 20.042,
+  "score": 0.908
+ },
+ {
+  "word": "इस",
+  "line": 3,
+  "roman": "is",
+  "start": 21.642,
+  "end": 21.762,
+  "score": 0.968
+ },
+ {
+  "word": "चिड़िया",
+  "line": 3,
+  "roman": "ciddiyaa",
+  "start": 21.902,
+  "end": 22.282,
+  "score": 0.911
+ },
+ {
+  "word": "की",
+  "line": 3,
+  "roman": "kii",
+  "start": 22.342,
+  "end": 22.482,
+  "score": 0.979
+ },
+ {
+  "word": "आँख",
+  "line": 3,
+  "roman": "aamkh",
+  "start": 22.662,
+  "end": 22.902,
+  "score": 0.912
+ },
+ {
+  "word": "पर",
+  "line": 3,
+  "roman": "par",
+  "start": 22.982,
+  "end": 23.122,
+  "score": 0.966
+ },
+ {
+  "word": "निशाना",
+  "line": 3,
+  "roman": "nishaanaa",
+  "start": 23.262,
+  "end": 23.742,
+  "score": 0.921
+ },
+ {
+  "word": "लगाना",
+  "line": 3,
+  "roman": "lagaanaa",
+  "start": 23.762,
+  "end": 24.142,
+  "score": 0.958
+ },
+ {
+  "word": "है",
+  "line": 3,
+  "roman": "hai",
+  "start": 24.182,
+  "end": 24.302,
+  "score": 0.926
+ },
+ {
+  "word": "सबसे",
+  "line": 4,
+  "roman": "sabase",
+  "start": 25.642,
+  "end": 26.042,
+  "score": 0.932
+ },
+ {
+  "word": "पहले",
+  "line": 4,
+  "roman": "pahale",
+  "start": 26.222,
+  "end": 26.562,
+  "score": 0.99
+ },
+ {
+  "word": "आगे",
+  "line": 4,
+  "roman": "aage",
+  "start": 26.722,
+  "end": 26.962,
+  "score": 0.976
+ },
+ {
+  "word": "आया",
+  "line": 4,
+  "roman": "aayaa",
+  "start": 27.102,
+  "end": 27.442,
+  "score": 0.923
+ },
+ {
+  "word": "दुर्योधन",
+  "line": 4,
+  "roman": "duryodhan",
+  "start": 27.902,
+  "end": 28.662,
+  "score": 0.903
+ },
+ {
+  "word": "हा",
+  "line": 5,
+  "roman": "haa",
+  "start": 28.682,
+  "end": 28.802,
+  "score": 0.001
+ },
+ {
+  "word": "हा",
+  "line": 5,
+  "roman": "haa",
+  "start": 28.802,
+  "end": 29.042,
+  "score": 0.001
+ },
+ {
+  "word": "हा",
+  "line": 5,
+  "roman": "haa",
+  "start": 29.762,
+  "end": 32.483,
+  "score": 0.001
+ },
+ {
+  "word": "बस",
+  "line": 5,
+  "roman": "bas",
+  "start": 32.483,
+  "end": 32.703,
+  "score": 0.978
+ },
+ {
+  "word": "इतनी",
+  "line": 5,
+  "roman": "itanii",
+  "start": 32.923,
+  "end": 33.283,
+  "score": 0.933
+ },
+ {
+  "word": "सी",
+  "line": 5,
+  "roman": "sii",
+  "start": 33.323,
+  "end": 33.443,
+  "score": 0.614
+ },
+ {
+  "word": "बात",
+  "line": 5,
+  "roman": "baat",
+  "start": 33.483,
+  "end": 33.743,
+  "score": 0.756
+ },
+ {
+  "word": "ये",
+  "line": 5,
+  "roman": "ye",
+  "start": 34.363,
+  "end": 34.483,
+  "score": 0.757
+ },
+ {
+  "word": "तो",
+  "line": 5,
+  "roman": "to",
+  "start": 34.623,
+  "end": 34.703,
+  "score": 0.657
+ },
+ {
+  "word": "मेरे",
+  "line": 5,
+  "roman": "mere",
+  "start": 34.763,
+  "end": 34.963,
+  "score": 0.977
+ },
+ {
+  "word": "बाएँ",
+  "line": 5,
+  "roman": "baaem",
+  "start": 35.123,
+  "end": 35.423,
+  "score": 0.742
+ },
+ {
+  "word": "हाथ",
+  "line": 5,
+  "roman": "haath",
+  "start": 35.443,
+  "end": 35.663,
+  "score": 0.719
+ },
+ {
+  "word": "का",
+  "line": 5,
+  "roman": "kaa",
+  "start": 35.703,
+  "end": 35.823,
+  "score": 0.974
+ },
+ {
+  "word": "खेल",
+  "line": 5,
+  "roman": "khel",
+  "start": 35.863,
+  "end": 36.103,
+  "score": 0.987
+ },
+ {
+  "word": "है",
+  "line": 5,
+  "roman": "hai",
+  "start": 36.183,
+  "end": 36.323,
+  "score": 0.98
+ },
+ {
+  "word": "दुर्योधन",
+  "line": 6,
+  "roman": "duryodhan",
+  "start": 37.743,
+  "end": 38.323,
+  "score": 0.925
+ },
+ {
+  "word": "ने",
+  "line": 6,
+  "roman": "ne",
+  "start": 38.383,
+  "end": 38.463,
+  "score": 0.977
+ },
+ {
+  "word": "अकड़कर",
+  "line": 6,
+  "roman": "akaddakar",
+  "start": 38.683,
+  "end": 39.163,
+  "score": 0.901
+ },
+ {
+  "word": "अपना",
+  "line": 6,
+  "roman": "apanaa",
+  "start": 39.223,
+  "end": 39.483,
+  "score": 0.982
+ },
+ {
+  "word": "धनुष",
+  "line": 6,
+  "roman": "dhanuss",
+  "start": 39.563,
+  "end": 39.863,
+  "score": 0.864
+ },
+ {
+  "word": "उठाया",
+  "line": 6,
+  "roman": "utthaayaa",
+  "start": 39.923,
+  "end": 40.323,
+  "score": 0.914
+ },
+ {
+  "word": "और",
+  "line": 6,
+  "roman": "aur",
+  "start": 40.863,
+  "end": 41.083,
+  "score": 0.991
+ },
+ {
+  "word": "निशाना",
+  "line": 6,
+  "roman": "nishaanaa",
+  "start": 41.223,
+  "end": 41.723,
+  "score": 0.979
+ },
+ {
+  "word": "साधा",
+  "line": 6,
+  "roman": "saadhaa",
+  "start": 41.783,
+  "end": 42.143,
+  "score": 0.914
+ },
+ {
+  "word": "गुरु",
+  "line": 7,
+  "roman": "guru",
+  "start": 43.624,
+  "end": 43.844,
+  "score": 0.946
+ },
+ {
+  "word": "द्रोणाचार्य",
+  "line": 7,
+  "roman": "dronnaacaarya",
+  "start": 43.984,
+  "end": 44.704,
+  "score": 0.799
+ },
+ {
+  "word": "ने",
+  "line": 7,
+  "roman": "ne",
+  "start": 44.764,
+  "end": 44.824,
+  "score": 0.946
+ },
+ {
+  "word": "पूछा",
+  "line": 7,
+  "roman": "puuchaa",
+  "start": 44.904,
+  "end": 45.284,
+  "score": 0.931
+ },
+ {
+  "word": "बताओ",
+  "line": 8,
+  "roman": "bataao",
+  "start": 46.484,
+  "end": 46.804,
+  "score": 0.875
+ },
+ {
+  "word": "दुर्योधन",
+  "line": 8,
+  "roman": "duryodhan",
+  "start": 46.884,
+  "end": 47.384,
+  "score": 0.958
+ },
+ {
+  "word": "तुम्हें",
+  "line": 8,
+  "roman": "tumhem",
+  "start": 47.884,
+  "end": 48.144,
+  "score": 0.99
+ },
+ {
+  "word": "क्या",
+  "line": 8,
+  "roman": "kyaa",
+  "start": 48.304,
+  "end": 48.504,
+  "score": 0.988
+ },
+ {
+  "word": "दिखाई",
+  "line": 8,
+  "roman": "dikhaaii",
+  "start": 48.544,
+  "end": 48.924,
+  "score": 0.963
+ },
+ {
+  "word": "दे",
+  "line": 8,
+  "roman": "de",
+  "start": 48.924,
+  "end": 49.004,
+  "score": 0.977
+ },
+ {
+  "word": "रहा",
+  "line": 8,
+  "roman": "rahaa",
+  "start": 49.064,
+  "end": 49.324,
+  "score": 0.899
+ },
+ {
+  "word": "है",
+  "line": 8,
+  "roman": "hai",
+  "start": 49.364,
+  "end": 49.504,
+  "score": 0.965
+ },
+ {
+  "word": "मुझे",
+  "line": 9,
+  "roman": "mujhe",
+  "start": 51.084,
+  "end": 51.324,
+  "score": 0.985
+ },
+ {
+  "word": "पेड़",
+  "line": 9,
+  "roman": "pedd",
+  "start": 51.464,
+  "end": 51.724,
+  "score": 0.935
+ },
+ {
+  "word": "दिख",
+  "line": 9,
+  "roman": "dikh",
+  "start": 51.784,
+  "end": 51.964,
+  "score": 0.74
+ },
+ {
+  "word": "रहा",
+  "line": 9,
+  "roman": "rahaa",
+  "start": 52.004,
+  "end": 52.244,
+  "score": 0.957
+ },
+ {
+  "word": "है",
+  "line": 9,
+  "roman": "hai",
+  "start": 52.284,
+  "end": 52.424,
+  "score": 0.979
+ },
+ {
+  "word": "उसकी",
+  "line": 9,
+  "roman": "usakii",
+  "start": 52.924,
+  "end": 53.204,
+  "score": 0.974
+ },
+ {
+  "word": "डालियाँ",
+  "line": 9,
+  "roman": "ddaaliyaam",
+  "start": 53.244,
+  "end": 53.724,
+  "score": 0.812
+ },
+ {
+  "word": "दिख",
+  "line": 9,
+  "roman": "dikh",
+  "start": 53.744,
+  "end": 53.904,
+  "score": 0.746
+ },
+ {
+  "word": "रही",
+  "line": 9,
+  "roman": "rahii",
+  "start": 53.944,
+  "end": 54.184,
+  "score": 0.954
+ },
+ {
+  "word": "हैं",
+  "line": 9,
+  "roman": "haim",
+  "start": 54.224,
+  "end": 54.384,
+  "score": 0.866
+ },
+ {
+  "word": "और",
+  "line": 9,
+  "roman": "aur",
+  "start": 54.844,
+  "end": 55.004,
+  "score": 0.969
+ },
+ {
+  "word": "चिड़िया",
+  "line": 9,
+  "roman": "ciddiyaa",
+  "start": 55.104,
+  "end": 55.505,
+  "score": 0.909
+ },
+ {
+  "word": "भी",
+  "line": 9,
+  "roman": "bhii",
+  "start": 55.525,
+  "end": 55.705,
+  "score": 0.824
+ },
+ {
+  "word": "तो",
+  "line": 10,
+  "roman": "to",
+  "start": 57.125,
+  "end": 57.205,
+  "score": 0.938
+ },
+ {
+  "word": "पीछे",
+  "line": 10,
+  "roman": "piiche",
+  "start": 57.385,
+  "end": 57.665,
+  "score": 0.909
+ },
+ {
+  "word": "हट",
+  "line": 10,
+  "roman": "hatt",
+  "start": 57.745,
+  "end": 57.885,
+  "score": 0.852
+ },
+ {
+  "word": "जाओ",
+  "line": 10,
+  "roman": "jaao",
+  "start": 57.945,
+  "end": 58.145,
+  "score": 0.893
+ },
+ {
+  "word": "दुर्योधन",
+  "line": 11,
+  "roman": "duryodhan",
+  "start": 59.685,
+  "end": 60.245,
+  "score": 0.919
+ },
+ {
+  "word": "का",
+  "line": 11,
+  "roman": "kaa",
+  "start": 60.325,
+  "end": 60.445,
+  "score": 0.885
+ },
+ {
+  "word": "चेहरा",
+  "line": 11,
+  "roman": "ceharaa",
+  "start": 60.505,
+  "end": 60.865,
+  "score": 0.823
+ },
+ {
+  "word": "गुस्से",
+  "line": 11,
+  "roman": "gusse",
+  "start": 60.965,
+  "end": 61.285,
+  "score": 0.973
+ },
+ {
+  "word": "से",
+  "line": 11,
+  "roman": "se",
+  "start": 61.385,
+  "end": 61.465,
+  "score": 0.979
+ },
+ {
+  "word": "लाल",
+  "line": 11,
+  "roman": "laal",
+  "start": 61.625,
+  "end": 61.865,
+  "score": 0.989
+ },
+ {
+  "word": "हो",
+  "line": 11,
+  "roman": "ho",
+  "start": 61.965,
+  "end": 62.025,
+  "score": 0.985
+ },
+ {
+  "word": "गया",
+  "line": 11,
+  "roman": "gayaa",
+  "start": 62.105,
+  "end": 62.325,
+  "score": 0.983
+ },
+ {
+  "word": "उसने",
+  "line": 12,
+  "roman": "usane",
+  "start": 63.425,
+  "end": 63.685,
+  "score": 0.982
+ },
+ {
+  "word": "झल्लाकर",
+  "line": 12,
+  "roman": "jhallaakar",
+  "start": 63.845,
+  "end": 64.585,
+  "score": 0.929
+ },
+ {
+  "word": "अपना",
+  "line": 12,
+  "roman": "apanaa",
+  "start": 64.725,
+  "end": 65.045,
+  "score": 0.958
+ },
+ {
+  "word": "धनुष",
+  "line": 12,
+  "roman": "dhanuss",
+  "start": 65.125,
+  "end": 65.485,
+  "score": 0.901
+ },
+ {
+  "word": "ज़मीन",
+  "line": 12,
+  "roman": "zamiin",
+  "start": 65.785,
+  "end": 66.125,
+  "score": 0.826
+ },
+ {
+  "word": "पर",
+  "line": 12,
+  "roman": "par",
+  "start": 66.205,
+  "end": 66.325,
+  "score": 0.984
+ },
+ {
+  "word": "पटक",
+  "line": 12,
+  "roman": "pattak",
+  "start": 66.385,
+  "end": 66.645,
+  "score": 0.985
+ },
+ {
+  "word": "दिया",
+  "line": 12,
+  "roman": "diyaa",
+  "start": 66.705,
+  "end": 66.945,
+  "score": 0.903
+ },
+ {
+  "word": "अब",
+  "line": 13,
+  "roman": "ab",
+  "start": 68.386,
+  "end": 68.506,
+  "score": 0.986
+ },
+ {
+  "word": "बारी",
+  "line": 13,
+  "roman": "baarii",
+  "start": 68.646,
+  "end": 68.966,
+  "score": 0.884
+ },
+ {
+  "word": "आई",
+  "line": 13,
+  "roman": "aaii",
+  "start": 69.046,
+  "end": 69.286,
+  "score": 0.919
+ },
+ {
+  "word": "युधिष्ठिर",
+  "line": 13,
+  "roman": "yudhisstthir",
+  "start": 69.686,
+  "end": 70.286,
+  "score": 0.826
+ },
+ {
+  "word": "की",
+  "line": 13,
+  "roman": "kii",
+  "start": 70.386,
+  "end": 70.546,
+  "score": 0.94
+ },
+ {
+  "word": "उन्होंने",
+  "line": 14,
+  "roman": "unhomne",
+  "start": 71.726,
+  "end": 72.106,
+  "score": 0.987
+ },
+ {
+  "word": "बड़े",
+  "line": 14,
+  "roman": "badde",
+  "start": 72.326,
+  "end": 72.566,
+  "score": 0.94
+ },
+ {
+  "word": "ध्यान",
+  "line": 14,
+  "roman": "dhyaan",
+  "start": 72.746,
+  "end": 73.126,
+  "score": 0.835
+ },
+ {
+  "word": "से",
+  "line": 14,
+  "roman": "se",
+  "start": 73.226,
+  "end": 73.306,
+  "score": 0.982
+ },
+ {
+  "word": "निशाना",
+  "line": 14,
+  "roman": "nishaanaa",
+  "start": 73.386,
+  "end": 73.826,
+  "score": 0.96
+ },
+ {
+  "word": "साधा",
+  "line": 14,
+  "roman": "saadhaa",
+  "start": 73.866,
+  "end": 74.246,
+  "score": 0.939
+ },
+ {
+  "word": "लेकिन",
+  "line": 15,
+  "roman": "lekin",
+  "start": 75.346,
+  "end": 75.646,
+  "score": 0.99
+ },
+ {
+  "word": "उन्हें",
+  "line": 15,
+  "roman": "unhem",
+  "start": 75.826,
+  "end": 76.106,
+  "score": 0.923
+ },
+ {
+  "word": "भी",
+  "line": 15,
+  "roman": "bhii",
+  "start": 76.166,
+  "end": 76.306,
+  "score": 0.9
+ },
+ {
+  "word": "पूरा",
+  "line": 15,
+  "roman": "puuraa",
+  "start": 76.486,
+  "end": 76.846,
+  "score": 0.942
+ },
+ {
+  "word": "पेड़",
+  "line": 15,
+  "roman": "pedd",
+  "start": 76.926,
+  "end": 77.166,
+  "score": 0.986
+ },
+ {
+  "word": "दिखाई",
+  "line": 15,
+  "roman": "dikhaaii",
+  "start": 77.246,
+  "end": 77.646,
+  "score": 0.908
+ },
+ {
+  "word": "दे",
+  "line": 15,
+  "roman": "de",
+  "start": 77.646,
+  "end": 77.726,
+  "score": 0.987
+ },
+ {
+  "word": "रहा",
+  "line": 15,
+  "roman": "rahaa",
+  "start": 77.806,
+  "end": 78.026,
+  "score": 0.94
+ },
+ {
+  "word": "था",
+  "line": 15,
+  "roman": "thaa",
+  "start": 78.066,
+  "end": 78.226,
+  "score": 0.945
+ },
+ {
+  "word": "तुम",
+  "line": 16,
+  "roman": "tum",
+  "start": 79.566,
+  "end": 79.726,
+  "score": 0.974
+ },
+ {
+  "word": "भी",
+  "line": 16,
+  "roman": "bhii",
+  "start": 79.787,
+  "end": 79.927,
+  "score": 0.933
+ },
+ {
+  "word": "पीछे",
+  "line": 16,
+  "roman": "piiche",
+  "start": 80.047,
+  "end": 80.327,
+  "score": 0.977
+ },
+ {
+  "word": "हट",
+  "line": 16,
+  "roman": "hatt",
+  "start": 80.407,
+  "end": 80.547,
+  "score": 0.826
+ },
+ {
+  "word": "जाओ",
+  "line": 16,
+  "roman": "jaao",
+  "start": 80.607,
+  "end": 80.827,
+  "score": 0.913
+ },
+ {
+  "word": "सभी",
+  "line": 17,
+  "roman": "sabhii",
+  "start": 82.467,
+  "end": 82.767,
+  "score": 0.939
+ },
+ {
+  "word": "राजकुमार",
+  "line": 17,
+  "roman": "raajakumaar",
+  "start": 82.827,
+  "end": 83.447,
+  "score": 0.955
+ },
+ {
+  "word": "एक-दूसरे",
+  "line": 17,
+  "roman": "ekduusare",
+  "start": 83.647,
+  "end": 84.187,
+  "score": 0.982
+ },
+ {
+  "word": "का",
+  "line": 17,
+  "roman": "kaa",
+  "start": 84.267,
+  "end": 84.387,
+  "score": 0.972
+ },
+ {
+  "word": "मुँह",
+  "line": 17,
+  "roman": "mumh",
+  "start": 84.487,
+  "end": 84.687,
+  "score": 0.791
+ },
+ {
+  "word": "देखने",
+  "line": 17,
+  "roman": "dekhane",
+  "start": 84.727,
+  "end": 85.027,
+  "score": 0.963
+ },
+ {
+  "word": "लगे",
+  "line": 17,
+  "roman": "lage",
+  "start": 85.087,
+  "end": 85.307,
+  "score": 0.985
+ },
+ {
+  "word": "क्या",
+  "line": 18,
+  "roman": "kyaa",
+  "start": 86.447,
+  "end": 86.667,
+  "score": 0.981
+ },
+ {
+  "word": "ये",
+  "line": 18,
+  "roman": "ye",
+  "start": 86.747,
+  "end": 86.827,
+  "score": 0.553
+ },
+ {
+  "word": "चुनौती",
+  "line": 18,
+  "roman": "cunautii",
+  "start": 86.947,
+  "end": 87.547,
+  "score": 0.967
+ },
+ {
+  "word": "सचमुच",
+  "line": 18,
+  "roman": "sacamuc",
+  "start": 88.247,
+  "end": 88.727,
+  "score": 0.891
+ },
+ {
+  "word": "असंभव",
+  "line": 18,
+  "roman": "asambhav",
+  "start": 88.947,
+  "end": 89.487,
+  "score": 0.978
+ },
+ {
+  "word": "थी",
+  "line": 18,
+  "roman": "thii",
+  "start": 89.567,
+  "end": 89.747,
+  "score": 0.89
+ },
+ {
+  "word": "तभी",
+  "line": 19,
+  "roman": "tabhii",
+  "start": 90.967,
+  "end": 91.347,
+  "score": 0.91
+ },
+ {
+  "word": "आगे",
+  "line": 19,
+  "roman": "aage",
+  "start": 92.088,
+  "end": 92.348,
+  "score": 0.827
+ },
+ {
+  "word": "बढ़ा",
+  "line": 19,
+  "roman": "baddhaa",
+  "start": 92.428,
+  "end": 92.728,
+  "score": 0.786
+ },
+ {
+  "word": "अर्जुन",
+  "line": 19,
+  "roman": "arjun",
+  "start": 92.788,
+  "end": 93.148,
+  "score": 0.858
+ },
+ {
+  "word": "पूरा",
+  "line": 20,
+  "roman": "puuraa",
+  "start": 94.368,
+  "end": 94.728,
+  "score": 0.874
+ },
+ {
+  "word": "मैदान",
+  "line": 20,
+  "roman": "maidaan",
+  "start": 94.808,
+  "end": 95.328,
+  "score": 0.874
+ },
+ {
+  "word": "एकदम",
+  "line": 20,
+  "roman": "ekadam",
+  "start": 96.168,
+  "end": 96.608,
+  "score": 0.665
+ },
+ {
+  "word": "शांत",
+  "line": 20,
+  "roman": "shaamt",
+  "start": 96.888,
+  "end": 97.288,
+  "score": 0.846
+ },
+ {
+  "word": "हो",
+  "line": 20,
+  "roman": "ho",
+  "start": 97.368,
+  "end": 97.428,
+  "score": 0.92
+ },
+ {
+  "word": "गया",
+  "line": 20,
+  "roman": "gayaa",
+  "start": 97.528,
+  "end": 97.768,
+  "score": 0.915
+ },
+ {
+  "word": "अर्जुन",
+  "line": 21,
+  "roman": "arjun",
+  "start": 99.288,
+  "end": 99.648,
+  "score": 0.968
+ },
+ {
+  "word": "ने",
+  "line": 21,
+  "roman": "ne",
+  "start": 99.728,
+  "end": 99.808,
+  "score": 0.963
+ },
+ {
+  "word": "अपना",
+  "line": 21,
+  "roman": "apanaa",
+  "start": 99.928,
+  "end": 100.248,
+  "score": 0.902
+ },
+ {
+  "word": "धनुष",
+  "line": 21,
+  "roman": "dhanuss",
+  "start": 100.308,
+  "end": 100.648,
+  "score": 0.854
+ },
+ {
+  "word": "उठाया",
+  "line": 21,
+  "roman": "utthaayaa",
+  "start": 100.728,
+  "end": 101.168,
+  "score": 0.914
+ },
+ {
+  "word": "धीरे-धीरे",
+  "line": 22,
+  "roman": "dhiiredhiire",
+  "start": 102.288,
+  "end": 103.088,
+  "score": 0.947
+ },
+ {
+  "word": "प्रत्यंचा",
+  "line": 22,
+  "roman": "pratyamcaa",
+  "start": 103.248,
+  "end": 103.928,
+  "score": 0.89
+ },
+ {
+  "word": "खींची",
+  "line": 22,
+  "roman": "khiimcii",
+  "start": 104.008,
+  "end": 104.489,
+  "score": 0.961
+ },
+ {
+  "word": "और",
+  "line": 23,
+  "roman": "aur",
+  "start": 105.549,
+  "end": 105.669,
+  "score": 0.964
+ },
+ {
+  "word": "अपनी",
+  "line": 23,
+  "roman": "apanii",
+  "start": 105.729,
+  "end": 106.009,
+  "score": 0.931
+ },
+ {
+  "word": "साँस",
+  "line": 23,
+  "roman": "saams",
+  "start": 106.149,
+  "end": 106.509,
+  "score": 0.916
+ },
+ {
+  "word": "रोक",
+  "line": 23,
+  "roman": "rok",
+  "start": 106.729,
+  "end": 106.969,
+  "score": 0.953
+ },
+ {
+  "word": "ली",
+  "line": 23,
+  "roman": "lii",
+  "start": 107.049,
+  "end": 107.209,
+  "score": 0.94
+ },
+ {
+  "word": "गुरु",
+  "line": 24,
+  "roman": "guru",
+  "start": 108.729,
+  "end": 108.949,
+  "score": 0.954
+ },
+ {
+  "word": "द्रोणाचार्य",
+  "line": 24,
+  "roman": "dronnaacaarya",
+  "start": 109.069,
+  "end": 109.789,
+  "score": 0.858
+ },
+ {
+  "word": "ने",
+  "line": 24,
+  "roman": "ne",
+  "start": 109.849,
+  "end": 109.929,
+  "score": 0.951
+ },
+ {
+  "word": "पूछा",
+  "line": 24,
+  "roman": "puuchaa",
+  "start": 109.989,
+  "end": 110.389,
+  "score": 0.902
+ },
+ {
+  "word": "अर्जुन",
+  "line": 25,
+  "roman": "arjun",
+  "start": 111.609,
+  "end": 111.989,
+  "score": 0.973
+ },
+ {
+  "word": "तुम्हें",
+  "line": 25,
+  "roman": "tumhem",
+  "start": 112.629,
+  "end": 112.909,
+  "score": 0.987
+ },
+ {
+  "word": "क्या",
+  "line": 25,
+  "roman": "kyaa",
+  "start": 113.029,
+  "end": 113.229,
+  "score": 0.987
+ },
+ {
+  "word": "दिखाई",
+  "line": 25,
+  "roman": "dikhaaii",
+  "start": 113.289,
+  "end": 113.649,
+  "score": 0.958
+ },
+ {
+  "word": "दे",
+  "line": 25,
+  "roman": "de",
+  "start": 113.669,
+  "end": 113.729,
+  "score": 0.979
+ },
+ {
+  "word": "रहा",
+  "line": 25,
+  "roman": "rahaa",
+  "start": 113.809,
+  "end": 114.069,
+  "score": 0.917
+ },
+ {
+  "word": "है",
+  "line": 25,
+  "roman": "hai",
+  "start": 114.109,
+  "end": 114.229,
+  "score": 0.964
+ },
+ {
+  "word": "गुरुदेव",
+  "line": 26,
+  "roman": "gurudev",
+  "start": 115.649,
+  "end": 116.209,
+  "score": 0.873
+ },
+ {
+  "word": "मुझे",
+  "line": 26,
+  "roman": "mujhe",
+  "start": 116.85,
+  "end": 117.15,
+  "score": 0.951
+ },
+ {
+  "word": "तो",
+  "line": 26,
+  "roman": "to",
+  "start": 117.21,
+  "end": 117.29,
+  "score": 0.954
+ },
+ {
+  "word": "बस",
+  "line": 26,
+  "roman": "bas",
+  "start": 117.37,
+  "end": 117.61,
+  "score": 0.921
+ },
+ {
+  "word": "चिड़िया",
+  "line": 26,
+  "roman": "ciddiyaa",
+  "start": 118.19,
+  "end": 118.63,
+  "score": 0.878
+ },
+ {
+  "word": "की",
+  "line": 26,
+  "roman": "kii",
+  "start": 118.67,
+  "end": 118.81,
+  "score": 0.974
+ },
+ {
+  "word": "आँख",
+  "line": 26,
+  "roman": "aamkh",
+  "start": 119.01,
+  "end": 119.25,
+  "score": 0.974
+ },
+ {
+  "word": "दिखाई",
+  "line": 26,
+  "roman": "dikhaaii",
+  "start": 119.31,
+  "end": 119.67,
+  "score": 0.906
+ },
+ {
+  "word": "दे",
+  "line": 26,
+  "roman": "de",
+  "start": 119.69,
+  "end": 119.75,
+  "score": 0.975
+ },
+ {
+  "word": "रही",
+  "line": 26,
+  "roman": "rahii",
+  "start": 119.83,
+  "end": 120.07,
+  "score": 0.961
+ },
+ {
+  "word": "है",
+  "line": 26,
+  "roman": "hai",
+  "start": 120.11,
+  "end": 120.23,
+  "score": 0.959
+ },
+ {
+  "word": "गुरु",
+  "line": 27,
+  "roman": "guru",
+  "start": 121.71,
+  "end": 121.93,
+  "score": 0.974
+ },
+ {
+  "word": "द्रोणाचार्य",
+  "line": 27,
+  "roman": "dronnaacaarya",
+  "start": 122.05,
+  "end": 122.79,
+  "score": 0.923
+ },
+ {
+  "word": "के",
+  "line": 27,
+  "roman": "ke",
+  "start": 122.85,
+  "end": 122.93,
+  "score": 0.964
+ },
+ {
+  "word": "चेहरे",
+  "line": 27,
+  "roman": "cehare",
+  "start": 123.03,
+  "end": 123.35,
+  "score": 0.801
+ },
+ {
+  "word": "पर",
+  "line": 27,
+  "roman": "par",
+  "start": 123.45,
+  "end": 123.63,
+  "score": 0.982
+ },
+ {
+  "word": "मुस्कान",
+  "line": 27,
+  "roman": "muskaan",
+  "start": 123.87,
+  "end": 124.39,
+  "score": 0.913
+ },
+ {
+  "word": "आ",
+  "line": 27,
+  "roman": "aa",
+  "start": 124.45,
+  "end": 124.53,
+  "score": 0.916
+ },
+ {
+  "word": "गई",
+  "line": 27,
+  "roman": "gaii",
+  "start": 124.59,
+  "end": 124.81,
+  "score": 0.894
+ },
+ {
+  "word": "तो",
+  "line": 28,
+  "roman": "to",
+  "start": 126.11,
+  "end": 126.19,
+  "score": 0.967
+ },
+ {
+  "word": "फिर",
+  "line": 28,
+  "roman": "phir",
+  "start": 126.29,
+  "end": 126.55,
+  "score": 0.889
+ },
+ {
+  "word": "बाण",
+  "line": 28,
+  "roman": "baann",
+  "start": 127.09,
+  "end": 127.37,
+  "score": 0.668
+ },
+ {
+  "word": "चलाओ",
+  "line": 28,
+  "roman": "calaao",
+  "start": 127.43,
+  "end": 127.81,
+  "score": 0.93
+ },
+ {
+  "word": "शूँऽऽऽ",
+  "line": 29,
+  "roman": "shuum'''",
+  "start": 129.431,
+  "end": 130.031,
+  "score": 0.411
+ },
+ {
+  "word": "तीर",
+  "line": 30,
+  "roman": "tiir",
+  "start": 131.771,
+  "end": 132.071,
+  "score": 0.791
+ },
+ {
+  "word": "हवा",
+  "line": 30,
+  "roman": "havaa",
+  "start": 132.231,
+  "end": 132.551,
+  "score": 0.897
+ },
+ {
+  "word": "को",
+  "line": 30,
+  "roman": "ko",
+  "start": 132.611,
+  "end": 132.691,
+  "score": 0.974
+ },
+ {
+  "word": "चीरता",
+  "line": 30,
+  "roman": "ciirataa",
+  "start": 132.891,
+  "end": 133.411,
+  "score": 0.831
+ },
+ {
+  "word": "हुआ",
+  "line": 30,
+  "roman": "huaa",
+  "start": 133.471,
+  "end": 133.731,
+  "score": 0.978
+ },
+ {
+  "word": "आगे",
+  "line": 30,
+  "roman": "aage",
+  "start": 133.911,
+  "end": 134.151,
+  "score": 0.944
+ },
+ {
+  "word": "बढ़ा",
+  "line": 30,
+  "roman": "baddhaa",
+  "start": 134.231,
+  "end": 134.551,
+  "score": 0.894
+ },
+ {
+  "word": "और",
+  "line": 31,
+  "roman": "aur",
+  "start": 136.731,
+  "end": 137.051,
+  "score": 0.984
+ },
+ {
+  "word": "सीधा",
+  "line": 31,
+  "roman": "siidhaa",
+  "start": 137.571,
+  "end": 137.971,
+  "score": 0.926
+ },
+ {
+  "word": "चिड़िया",
+  "line": 31,
+  "roman": "ciddiyaa",
+  "start": 138.111,
+  "end": 138.491,
+  "score": 0.94
+ },
+ {
+  "word": "की",
+  "line": 31,
+  "roman": "kii",
+  "start": 138.531,
+  "end": 138.671,
+  "score": 0.973
+ },
+ {
+  "word": "आँख",
+  "line": 31,
+  "roman": "aamkh",
+  "start": 138.911,
+  "end": 139.191,
+  "score": 0.931
+ },
+ {
+  "word": "में",
+  "line": 31,
+  "roman": "mem",
+  "start": 139.251,
+  "end": 139.371,
+  "score": 0.98
+ },
+ {
+  "word": "जा",
+  "line": 31,
+  "roman": "jaa",
+  "start": 139.411,
+  "end": 139.551,
+  "score": 0.866
+ },
+ {
+  "word": "लगा",
+  "line": 31,
+  "roman": "lagaa",
+  "start": 139.591,
+  "end": 139.851,
+  "score": 0.974
+ },
+ {
+  "word": "सभी",
+  "line": 32,
+  "roman": "sabhii",
+  "start": 141.572,
+  "end": 141.912,
+  "score": 0.969
+ },
+ {
+  "word": "राजकुमार",
+  "line": 32,
+  "roman": "raajakumaar",
+  "start": 141.992,
+  "end": 142.672,
+  "score": 0.924
+ },
+ {
+  "word": "हैरान",
+  "line": 32,
+  "roman": "hairaan",
+  "start": 142.832,
+  "end": 143.352,
+  "score": 0.913
+ },
+ {
+  "word": "रह",
+  "line": 32,
+  "roman": "rah",
+  "start": 143.432,
+  "end": 143.572,
+  "score": 0.942
+ },
+ {
+  "word": "गए",
+  "line": 32,
+  "roman": "gae",
+  "start": 143.652,
+  "end": 143.832,
+  "score": 0.965
+ },
+ {
+  "word": "उस",
+  "line": 33,
+  "roman": "us",
+  "start": 145.132,
+  "end": 145.252,
+  "score": 0.987
+ },
+ {
+  "word": "दिन",
+  "line": 33,
+  "roman": "din",
+  "start": 145.352,
+  "end": 145.512,
+  "score": 0.987
+ },
+ {
+  "word": "अर्जुन",
+  "line": 33,
+  "roman": "arjun",
+  "start": 145.692,
+  "end": 146.092,
+  "score": 0.984
+ },
+ {
+  "word": "ने",
+  "line": 33,
+  "roman": "ne",
+  "start": 146.192,
+  "end": 146.272,
+  "score": 0.976
+ },
+ {
+  "word": "सबको",
+  "line": 33,
+  "roman": "sabako",
+  "start": 146.572,
+  "end": 146.932,
+  "score": 0.848
+ },
+ {
+  "word": "एक",
+  "line": 33,
+  "roman": "ek",
+  "start": 147.112,
+  "end": 147.232,
+  "score": 0.972
+ },
+ {
+  "word": "बहुत",
+  "line": 33,
+  "roman": "bahut",
+  "start": 147.412,
+  "end": 147.812,
+  "score": 0.918
+ },
+ {
+  "word": "बड़ी",
+  "line": 33,
+  "roman": "baddii",
+  "start": 147.972,
+  "end": 148.252,
+  "score": 0.986
+ },
+ {
+  "word": "सीख",
+  "line": 33,
+  "roman": "siikh",
+  "start": 148.332,
+  "end": 148.592,
+  "score": 0.982
+ },
+ {
+  "word": "दी",
+  "line": 33,
+  "roman": "dii",
+  "start": 148.672,
+  "end": 148.812,
+  "score": 0.66
+ },
+ {
+  "word": "महान",
+  "line": 34,
+  "roman": "mahaan",
+  "start": 150.072,
+  "end": 150.512,
+  "score": 0.974
+ },
+ {
+  "word": "बनने",
+  "line": 34,
+  "roman": "banane",
+  "start": 150.632,
+  "end": 150.932,
+  "score": 0.946
+ },
+ {
+  "word": "के",
+  "line": 34,
+  "roman": "ke",
+  "start": 151.032,
+  "end": 151.132,
+  "score": 0.984
+ },
+ {
+  "word": "लिए",
+  "line": 34,
+  "roman": "lie",
+  "start": 151.212,
+  "end": 151.392,
+  "score": 0.988
+ },
+ {
+  "word": "सिर्फ़",
+  "line": 34,
+  "roman": "sirfa",
+  "start": 151.812,
+  "end": 152.092,
+  "score": 0.789
+ },
+ {
+  "word": "ताकत",
+  "line": 34,
+  "roman": "taakat",
+  "start": 152.192,
+  "end": 152.672,
+  "score": 0.938
+ },
+ {
+  "word": "या",
+  "line": 34,
+  "roman": "yaa",
+  "start": 152.892,
+  "end": 153.052,
+  "score": 0.979
+ },
+ {
+  "word": "घमंड",
+  "line": 34,
+  "roman": "ghamamdd",
+  "start": 153.152,
+  "end": 153.593,
+  "score": 0.9
+ },
+ {
+  "word": "नहीं",
+  "line": 34,
+  "roman": "nahiim",
+  "start": 153.653,
+  "end": 153.953,
+  "score": 0.916
+ },
+ {
+  "word": "बल्कि",
+  "line": 35,
+  "roman": "balki",
+  "start": 155.593,
+  "end": 155.933,
+  "score": 0.978
+ },
+ {
+  "word": "चाहिए",
+  "line": 35,
+  "roman": "caahie",
+  "start": 156.073,
+  "end": 156.573,
+  "score": 0.932
+ },
+ {
+  "word": "अटूट",
+  "line": 35,
+  "roman": "attuutt",
+  "start": 157.333,
+  "end": 157.933,
+  "score": 0.865
+ },
+ {
+  "word": "एकाग्रता",
+  "line": 35,
+  "roman": "ekaagrataa",
+  "start": 158.173,
+  "end": 158.993,
+  "score": 0.77
+ },
+ {
+  "word": "क्योंकि",
+  "line": 36,
+  "roman": "kyomki",
+  "start": 160.433,
+  "end": 160.713,
+  "score": 0.976
+ },
+ {
+  "word": "जब",
+  "line": 36,
+  "roman": "jab",
+  "start": 160.793,
+  "end": 160.953,
+  "score": 0.991
+ },
+ {
+  "word": "नज़र",
+  "line": 36,
+  "roman": "nazar",
+  "start": 161.093,
+  "end": 161.473,
+  "score": 0.809
+ },
+ {
+  "word": "सिर्फ़",
+  "line": 36,
+  "roman": "sirfa",
+  "start": 161.653,
+  "end": 161.973,
+  "score": 0.784
+ },
+ {
+  "word": "लक्ष्य",
+  "line": 36,
+  "roman": "lakssya",
+  "start": 162.073,
+  "end": 162.413,
+  "score": 0.825
+ },
+ {
+  "word": "पर",
+  "line": 36,
+  "roman": "par",
+  "start": 162.473,
+  "end": 162.613,
+  "score": 0.985
+ },
+ {
+  "word": "हो",
+  "line": 36,
+  "roman": "ho",
+  "start": 162.693,
+  "end": 162.773,
+  "score": 0.968
+ },
+ {
+  "word": "तो",
+  "line": 37,
+  "roman": "to",
+  "start": 163.913,
+  "end": 163.973,
+  "score": 0.984
+ },
+ {
+  "word": "मुश्किल",
+  "line": 37,
+  "roman": "mushkil",
+  "start": 164.153,
+  "end": 164.593,
+  "score": 0.991
+ },
+ {
+  "word": "से",
+  "line": 37,
+  "roman": "se",
+  "start": 164.713,
+  "end": 164.793,
+  "score": 0.975
+ },
+ {
+  "word": "मुश्किल",
+  "line": 37,
+  "roman": "mushkil",
+  "start": 164.973,
+  "end": 165.393,
+  "score": 0.988
+ },
+ {
+  "word": "निशाना",
+  "line": 37,
+  "roman": "nishaanaa",
+  "start": 165.473,
+  "end": 165.954,
+  "score": 0.986
+ },
+ {
+  "word": "भी",
+  "line": 37,
+  "roman": "bhii",
+  "start": 166.014,
+  "end": 166.194,
+  "score": 0.978
+ },
+ {
+  "word": "आसान",
+  "line": 37,
+  "roman": "aasaan",
+  "start": 166.734,
+  "end": 167.154,
+  "score": 0.985
+ },
+ {
+  "word": "हो",
+  "line": 37,
+  "roman": "ho",
+  "start": 167.214,
+  "end": 167.274,
+  "score": 0.944
+ },
+ {
+  "word": "जाता",
+  "line": 37,
+  "roman": "jaataa",
+  "start": 167.374,
+  "end": 167.694,
+  "score": 0.928
+ },
+ {
+  "word": "है",
+  "line": 37,
+  "roman": "hai",
+  "start": 167.734,
+  "end": 167.874,
+  "score": 0.981
+ }
+]

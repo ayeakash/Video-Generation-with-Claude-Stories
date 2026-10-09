@@ -1,0 +1,22 @@
+# Dependencies, caches, render outputs
+node_modules/
+.venv/
+.remotion/
+video/out/
+__pycache__/
+.DS_Store
+
+# Narration inputs are kept out of the repo (add your own to re-render)
+*.mp3
+*.wav
+*.m4a
+arjuna narration.txt
+
+# Third-party reference material
+Lyric-Video-Process-Guide.pdf
+
+# Intermediate review renders (only the final video is published)
+sync-test.mp4
+opening-10s.mp4
+hero-proof.mp4
+review-clips/*.mp4
